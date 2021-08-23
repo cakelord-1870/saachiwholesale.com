@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://saachiwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://saachiwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://saachiwholesale.com/collections/trending-resin.atom"/>
+  <title>Saachi Wholesale</title>
+  <updated>2020-02-07T14:46:09-05:00</updated>
+  <author>
+    <name>Saachi Wholesale</name>
+  </author>
+  <entry>
+    <id>https://saachiwholesale.com/products/4391334543440</id>
+    <published>2020-02-07T14:46:09-05:00</published>
+    <updated>2020-02-07T14:46:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/aashi-necklace-grey-1"/>
+    <title>Aashi Long Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/00007771112EA996_X.jpg?v=1611688942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;This easy-on, easy-off piece is the perfect complement to any tunic or dress. With its black, grey and gold detailing, you'll reach for this statement necklace again and again. &quot;}" data-sheets-userformat='{"2":8961,"3":{"1":0},"11":4,"12":0,"16":9}'>This easy-on, easy-off piece is the perfect complement to any tunic or dress. With its black, grey and gold detailing, you'll reach for this statement necklace again and again.<br></span>
+<ul>
+<li>38" Long Measured Open</li>
+<li>Lobster Clasp with 2.5" Chain Extender</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>Body_Necklace</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>holiday25</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_AcrylicBeads</s:tag>
+    <s:tag>Material_GoldToned</s:tag>
+    <s:tag>Material_Pearls</s:tag>
+    <s:tag>Material_Resin</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4391334543440</id>
+      <title>Gray</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>601832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4391334543440</id>
+      <title>Black</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>601831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4392983429200</id>
+    <published>2020-02-07T14:45:24-05:00</published>
+    <updated>2020-02-07T14:45:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/day-out-necklace-black-white"/>
+    <title>Day Out Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/RS45530_Dayoutnecklace-blackwhite-617784-4.jpg?v=1583256161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>Body_Necklace</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Resin</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392983429200</id>
+      <title>Black</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>617784</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392983429200</id>
+      <title>Multi</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>617785</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4392993652816</id>
+    <published>2020-02-07T14:45:06-05:00</published>
+    <updated>2020-02-07T14:45:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/full-meaning-earring"/>
+    <title>Full Meaning Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/2615aeea3d8eacefa9aa70048bb0cfb3.jpg?v=1575383970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            14.00 - 28.00
+            <a href="https://saachiwholesale.com/products/full-meaning-earring">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"A new season means it is time for new accessories! Our Full Meaning Statement Earring adds the perfect amount of flair to any look with its antiqued gold setting and hexagonal shaped resin.\n\nMatte Gold Plating\nSize: 2.125\" x 1.75\"\nStud Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"A new season means it is time for new accessories! Our Full Meaning Statement Earring adds the perfect amount of flair to any look with its antiqued gold setting and hexagonal shaped resin.\n\nMatte Gold Plating\nSize: 2.125\" x 1.75\"\nStud Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">A new season means it is time for new accessories! Our Full Meaning Statement Earring adds the perfect amount of flair to any look with its antiqued gold setting and hexagonal shaped resin.<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"A new season means it is time for new accessories! Our Full Meaning Statement Earring adds the perfect amount of flair to any look with its antiqued gold setting and hexagonal shaped resin.\n\nMatte Gold Plating\nSize: 2.125\" x 1.75\"\nStud Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials : Matte Gold Plating</span></li>
+<li><span data-sheets-value='{"1":2,"2":"A new season means it is time for new accessories! Our Full Meaning Statement Earring adds the perfect amount of flair to any look with its antiqued gold setting and hexagonal shaped resin.\n\nMatte Gold Plating\nSize: 2.125\" x 1.75\"\nStud Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 2.125" x 1.75"</span></li>
+<li><span data-sheets-value='{"1":2,"2":"A new season means it is time for new accessories! Our Full Meaning Statement Earring adds the perfect amount of flair to any look with its antiqued gold setting and hexagonal shaped resin.\n\nMatte Gold Plating\nSize: 2.125\" x 1.75\"\nStud Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Stud Backing</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>Body_Earrings</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_GoldPlated</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392993652816</id>
+      <title>Black</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>618063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392993652816</id>
+      <title>White</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>618064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4393047916624</id>
+    <published>2020-02-07T14:43:19-05:00</published>
+    <updated>2020-02-07T14:43:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/whitney-earring"/>
+    <title>Whitney Resin Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/fb3e242cbdf0d358f84bc6f5f4991e72.jpg?v=1575387349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Not your ordinary hoop! Put a spin on a classic style with mixed resin shades and six-sided angles. Our eye-catching Whitney Resin Earring will add a pop of color to your resort-ready outfits.</span></p>
+<ul>
+<li><span>Material: Resin </span></li>
+<li><span>Post Backing </span></li>
+<li><span>Imported</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Body_Post Back</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lightgreen</s:tag>
+    <s:tag>Material_Resin</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393047916624</id>
+      <title>Teal</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>618180</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

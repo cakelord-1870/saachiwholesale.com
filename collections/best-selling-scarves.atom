@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://saachiwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://saachiwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://saachiwholesale.com/collections/best-selling-scarves.atom"/>
+  <title>Saachi Wholesale</title>
+  <updated>2021-05-20T11:49:39-04:00</updated>
+  <author>
+    <name>Saachi Wholesale</name>
+  </author>
+  <entry>
+    <id>https://saachiwholesale.com/products/6732313755830</id>
+    <published>2021-05-20T11:49:39-04:00</published>
+    <updated>2021-05-20T11:49:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/embellished-paisley-bandana"/>
+    <title>Embellished Paisley Bandana</title>
+    <s:type>Bandana</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/RS50860_IMG_0022.jpg?v=1622823798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bandana<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Our Embellished bandana features hand-illustrated paisleys and a delicate floral pattern in a beautiful red or black with an embellished border. Add an elegant finishing touch to your ensemble.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Made in India</li>
+</ul>
+<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>sd_preorder</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6732313755830</id>
+      <title>Black</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>153740</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6732313755830</id>
+      <title>Red</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>153741</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6629773967542</id>
+    <published>2021-04-06T15:31:45-04:00</published>
+    <updated>2021-04-06T15:31:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/blooming-lotus-bandana"/>
+    <title>Blooming Lotus Bandana</title>
+    <s:type>Bandana</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/RS50798_IMG_9573.jpg?v=1622654592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bandana<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add an extra touch to your outfit with this pretty bandana featuring a vibrant floral print and solid border. Wear our Blooming Lotus Bandana any way you’d like.<br>
+<ul>
+<li>100% Modal</li>
+<li>Size: 21" x 21"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>sd_preorder</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6629773967542</id>
+      <title>Navy</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>153861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6629773967542</id>
+      <title>Lilac</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>153875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6622679072950</id>
+    <published>2021-04-01T13:28:38-04:00</published>
+    <updated>2021-04-01T13:28:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/barbara-frayed-patchwork-scarf"/>
+    <title>Barbara Frayed Patchwork Scarf</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/00009729370DB180_X.jpg?v=1617298108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Come to the dark side with our Barba Frayed Patchwork Scarf. Featuring a beautiful navy Indian paisley mixed block print on soft cotton, you’ll never want to take it off. Whether you wear it as a scarf or drape over your shoulders on a breezy day, this piece will bring sophistication to your wardrobe.
+<ul>
+<li>Materials: Cotton</li>
+<li>Size: 26” x 76”</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6622679072950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>119121-SLX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6221358760118</id>
+    <published>2021-03-11T11:55:38-05:00</published>
+    <updated>2021-03-11T11:55:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/haryana-scarf"/>
+    <title>Haryana Scarf</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/00009784517C5102_X.jpg?v=1611698092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Look chic this summer with our Haryana Scarf. This luxe semi-sheer fabric features elegant silver woven florals and a stylish fringe border. Wear as a scarf, shawl, or a wrap with any colors. Versatility has never been more comfortable with this light breathable cotton. \nMaterials: Cotton\nSize: 40” x 80”\nMade in India\n"}'><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Look chic this summer with our Haryana Scarf. This luxe semi-sheer fabric features elegant silver woven florals and a stylish fringe border. Wear as a scarf, shawl, or a wrap with any colors. Versatility has never been more comfortable with this light breathable cotton. \nMaterials: Cotton\nSize: 40” x 80”\nMade in India\n"}'>Look chic this summer with our Haryana Scarf. This luxe semi-sheer fabric features elegant silver woven florals and a stylish fringe border. Wear as a scarf, shawl, or a wrap with any colors. Versatility has never been more comfortable with this light breathable cotton. <br></span></span>
+<ul>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Look chic this summer with our Haryana Scarf. This luxe semi-sheer fabric features elegant silver woven florals and a stylish fringe border. Wear as a scarf, shawl, or a wrap with any colors. Versatility has never been more comfortable with this light breathable cotton. \nMaterials: Cotton\nSize: 40” x 80”\nMade in India\n"}'>Materials: Cotton</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Look chic this summer with our Haryana Scarf. This luxe semi-sheer fabric features elegant silver woven florals and a stylish fringe border. Wear as a scarf, shawl, or a wrap with any colors. Versatility has never been more comfortable with this light breathable cotton. \nMaterials: Cotton\nSize: 40” x 80”\nMade in India\n"}'>Size: 40” x 80”</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Look chic this summer with our Haryana Scarf. This luxe semi-sheer fabric features elegant silver woven florals and a stylish fringe border. Wear as a scarf, shawl, or a wrap with any colors. Versatility has never been more comfortable with this light breathable cotton. \nMaterials: Cotton\nSize: 40” x 80”\nMade in India\n"}'>Made in India</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Floral Print</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>Material_Cotton</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>presale</s:tag>
+    <s:tag>SCARF</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>sd_partial</s:tag>
+    <s:tag>sienna</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6221358760118</id>
+      <title>Beige</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>153848</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4393023242320</id>
+    <published>2021-03-11T11:55:29-05:00</published>
+    <updated>2021-03-11T11:55:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/melody-striped-fuchsia-scarf"/>
+    <title>Melody Striped Fuchsia Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/ba43723bb3bb72b529ced611c4384e00.jpg?v=1575385429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Our Melody Striped Fuchsia Scarf is the springtime accessory you’ve been waiting for. Featuring a harmonious design woven from a blend of silk and wool, this piece is stylish and versatile. Wear as a scarf, shawl, or a wrap!\nMaterials: Silk, Wool\nSize: 35” x 78”\nMade in Ind\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Our Melody Striped Fuchsia Scarf is the springtime accessory you’ve been waiting for. Featuring a harmonious design woven from a blend of silk and wool, this piece is stylish and versatile. Wear as a scarf, shawl, or a wrap!\nMaterials: Silk, Wool\nSize: 35” x 78”\nMade in Ind\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Our Melody Striped Fuchsia Scarf is the springtime accessory you’ve been waiting for. Featuring a harmonious design woven from a blend of silk and wool, this piece is stylish and versatile. Wear as a scarf, shawl, or a wrap!<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Our Melody Striped Fuchsia Scarf is the springtime accessory you’ve been waiting for. Featuring a harmonious design woven from a blend of silk and wool, this piece is stylish and versatile. Wear as a scarf, shawl, or a wrap!\nMaterials: Silk, Wool\nSize: 35” x 78”\nMade in Ind\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Silk, Wool</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our Melody Striped Fuchsia Scarf is the springtime accessory you’ve been waiting for. Featuring a harmonious design woven from a blend of silk and wool, this piece is stylish and versatile. Wear as a scarf, shawl, or a wrap!\nMaterials: Silk, Wool\nSize: 35” x 78”\nMade in Ind\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 35” x 78”</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our Melody Striped Fuchsia Scarf is the springtime accessory you’ve been waiting for. Featuring a harmonious design woven from a blend of silk and wool, this piece is stylish and versatile. Wear as a scarf, shawl, or a wrap!\nMaterials: Silk, Wool\nSize: 35” x 78”\nMade in Ind\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Made in India</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Striped Print</s:tag>
+    <s:tag>Material_Silk</s:tag>
+    <s:tag>Material_Wool</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>SCARF</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393023242320</id>
+      <title>Fuchsia</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>131113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4393011314768</id>
+    <published>2021-03-11T11:55:28-05:00</published>
+    <updated>2021-03-11T11:55:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/happy-fun-times-scarf-ivory"/>
+    <title>Happy Fun Times Scarf</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/00008432698C55C4_X.jpg?v=1610985009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"It’s impossible not to smile when you wear our Happy Fun Times Scarf. The colorful woven flowers decorating the edges of light breezy fabric will give you some fabulous flair. This piece is perfect for a sunny day!\nMaterials: Cotton \nSize: 39” x 75”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"It’s impossible not to smile when you wear our Happy Fun Times Scarf. The colorful woven flowers decorating the edges of light breezy fabric will give you some fabulous flair. This piece is perfect for a sunny day!\nMaterials: Cotton \nSize: 39” x 75”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">It’s impossible not to smile when you wear our Happy Fun Times Scarf. The colorful woven flowers decorating the edges of light breezy fabric will give you some fabulous flair. This piece is perfect for a sunny day!<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"It’s impossible not to smile when you wear our Happy Fun Times Scarf. The colorful woven flowers decorating the edges of light breezy fabric will give you some fabulous flair. This piece is perfect for a sunny day!\nMaterials: Cotton \nSize: 39” x 75”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Cotton </span></li>
+<li><span data-sheets-value='{"1":2,"2":"It’s impossible not to smile when you wear our Happy Fun Times Scarf. The colorful woven flowers decorating the edges of light breezy fabric will give you some fabulous flair. This piece is perfect for a sunny day!\nMaterials: Cotton \nSize: 39” x 75”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 39” x 75”</span></li>
+<li><span data-sheets-value='{"1":2,"2":"It’s impossible not to smile when you wear our Happy Fun Times Scarf. The colorful woven flowers decorating the edges of light breezy fabric will give you some fabulous flair. This piece is perfect for a sunny day!\nMaterials: Cotton \nSize: 39” x 75”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Made in India</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Floral Print</s:tag>
+    <s:tag>Material_Cotton</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>SCARF</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393011314768</id>
+      <title>Ivory</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>132430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4598780985424</id>
+    <published>2021-03-11T11:54:55-05:00</published>
+    <updated>2021-03-11T11:54:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/chevron-print-scarf-1"/>
+    <title>Chevron Print Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/3f8769148a05670fe48a13f7c3564d28.jpg?v=1588686106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Treat yourself with this fabulous scarf that can be worn all year long. Cool, lightweight and comfortable, this versatile scarf packs small making it ideal for those beach vacations.</p>
+<ul>
+<li>28x78 with Hand-Knotted Fringe</li>
+<li>100% Rayon</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Chevron Print</s:tag>
+    <s:tag>Color_Purple</s:tag>
+    <s:tag>facecovering</s:tag>
+    <s:tag>Material_Rayon</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>Tag_5eb16d1758fb1</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4598780985424</id>
+      <title>Purple</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>119079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4391424426064</id>
+    <published>2021-03-11T11:54:48-05:00</published>
+    <updated>2021-03-11T11:54:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/beach-comber-scarf"/>
+    <title>Beach Comber Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/f86847b4b3b04743fe1624f6dcfe9df4.jpg?v=1575316316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Our Beach Comber Scarf transitions flawlessly from day to night. Lightweight and made from comfortable cotton and nylon, you can wear this striped raw-edged scarf anytime, anywhere. You can’t go wrong with classic beachy colors!\nMaterials: Cotton, Nylon\nSize: 28” x 71”\nMade in India \n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Our Beach Comber Scarf transitions flawlessly from day to night. Lightweight and made from comfortable cotton and nylon, you can wear this striped raw-edged scarf anytime, anywhere. You can’t go wrong with classic beachy colors!\nMaterials: Cotton, Nylon\nSize: 28” x 71”\nMade in India \n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Our Beach Comber Scarf transitions flawlessly from day to night. Lightweight and made from comfortable cotton and nylon, you can wear this striped raw-edged scarf anytime, anywhere. You can’t go wrong with classic beachy colors!<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Our Beach Comber Scarf transitions flawlessly from day to night. Lightweight and made from comfortable cotton and nylon, you can wear this striped raw-edged scarf anytime, anywhere. You can’t go wrong with classic beachy colors!\nMaterials: Cotton, Nylon\nSize: 28” x 71”\nMade in India \n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Cotton, Nylon</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our Beach Comber Scarf transitions flawlessly from day to night. Lightweight and made from comfortable cotton and nylon, you can wear this striped raw-edged scarf anytime, anywhere. You can’t go wrong with classic beachy colors!\nMaterials: Cotton, Nylon\nSize: 28” x 71”\nMade in India \n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 28” x 71”</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our Beach Comber Scarf transitions flawlessly from day to night. Lightweight and made from comfortable cotton and nylon, you can wear this striped raw-edged scarf anytime, anywhere. You can’t go wrong with classic beachy colors!\nMaterials: Cotton, Nylon\nSize: 28” x 71”\nMade in India \n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Made in India </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>SCARF</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>Woven</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4391424426064</id>
+      <title>Ivory/Blue</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>132481</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6214129680566</id>
+    <published>2021-01-22T14:14:13-05:00</published>
+    <updated>2021-01-22T14:14:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/copy-of-heart-striped-purple-scarf"/>
+    <title>Happy Plaid Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/IMG_1532.jpg?v=1611690915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            16.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"This season, we want to bring some well earned happiness to our accessories. The Happy Plaid Scarf features an assortment of cheerful multicolored stripes on criminally soft modal. One of the highlights of this scarf is the beautiful attention to detail, diamonds of all sizes are woven amongst the cross-barred pattern.\nMaterials: 46% Cotton 43% Acrylic 11% Wool\nSize: 27” x 70”\nN/A\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"This season, we want to bring some well earned happiness to our accessories. The Happy Plaid Scarf features an assortment of cheerful multicolored stripes on criminally soft modal. One of the highlights of this scarf is the beautiful attention to detail, diamonds of all sizes are woven amongst the cross-barred pattern.\nMaterials: 46% Cotton 43% Acrylic 11% Wool\nSize: 27” x 70”\nN/A\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">This season, we want to bring some well earned happiness to our accessories. The Happy Plaid Scarf features an assortment of cheerful multicolored stripes on criminally soft modal. One of the highlights of this scarf is the beautiful attention to detail, diamonds of all sizes are woven amongst the cross-barred pattern.<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"This season, we want to bring some well earned happiness to our accessories. The Happy Plaid Scarf features an assortment of cheerful multicolored stripes on criminally soft modal. One of the highlights of this scarf is the beautiful attention to detail, diamonds of all sizes are woven amongst the cross-barred pattern.\nMaterials: 46% Cotton 43% Acrylic 11% Wool\nSize: 27” x 70”\nN/A\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: 46% Cotton 43% Acrylic 11% Wool</span></li>
+<li><span data-sheets-value='{"1":2,"2":"This season, we want to bring some well earned happiness to our accessories. The Happy Plaid Scarf features an assortment of cheerful multicolored stripes on criminally soft modal. One of the highlights of this scarf is the beautiful attention to detail, diamonds of all sizes are woven amongst the cross-barred pattern.\nMaterials: 46% Cotton 43% Acrylic 11% Wool\nSize: 27” x 70”\nN/A\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 27” x 70”</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Animal Print</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>Material_Lurex</s:tag>
+    <s:tag>Material_Wool</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6214129680566</id>
+      <title>Pink</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>153789</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6195938885814</id>
+    <published>2021-01-13T14:23:50-05:00</published>
+    <updated>2021-01-13T14:23:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/cashmere-silk-eyelash-scarf"/>
+    <title>Cashmere Silk Eyelash Scarf</title>
+    <s:type>Scarves</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/IMG_1448.jpg?v=1611693640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Scarves<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Solid eyelash fringe scarf with a luxe cashmere and silk blend.<br><br>
+<ul>
+<li>Material: Cashmere, Silk</li>
+<li>Size: 26” x 78”</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6195938885814</id>
+      <title>Mint</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>153560</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6195938885814</id>
+      <title>Pink</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>153557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6195918438582</id>
+    <published>2021-01-13T14:11:31-05:00</published>
+    <updated>2021-01-13T14:11:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/heart-striped-purple-scarf"/>
+    <title>Heart Striped Purple Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/00006911155AB5BB_X.jpg?v=1610565039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add some cute, love inspired vibes to your look with our Heart Striped wool scarf. This super soft and comfy scarf features little purple hearts and an eyelash fringe hem.</p>
+<ul>
+<li>Made in India</li>
+<li>28" x 76"</li>
+<li>70% Wool, 30% Silk</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Animal Print</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>Material_Lurex</s:tag>
+    <s:tag>Material_Wool</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6195918438582</id>
+      <title>Gray</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>153404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6195911852214</id>
+    <published>2021-01-13T14:09:36-05:00</published>
+    <updated>2021-01-13T14:09:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/hearts-scarf"/>
+    <title>Hearts Wool Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/0000952589427DC7_X.jpg?v=1610564833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add some cute, love inspired vibes to your look with our Black &amp; Red Hearts Scarf. This super soft and comfy scarf features little red hearts and an eyelash fringe hem.</p>
+<ul>
+<li>100% Wool</li>
+<li>Made in India</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Animal Print</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>Material_Lurex</s:tag>
+    <s:tag>Material_Wool</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6195911852214</id>
+      <title>Black</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>117793</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6105189482678</id>
+    <published>2020-11-25T15:49:00-05:00</published>
+    <updated>2020-11-25T15:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/face-mask-scrunchie-and-headband-set"/>
+    <title>Face Mask, Scrunchie and Headband Set</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/RS48332_maskset_blackwhite_153824_1.jpg?v=1606337287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">A stylish and functional plaid mask with a matching scrunchie and headband for a coordinated look.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Cotton Poly Blend</li>
+<li data-mce-fragment="1">Contains: Plaid Face Mask, Headband and Scrunchi</li>
+</ul>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Please note: this face mask is NOT a direct substitute for N95, or medical masks and is not FDA approved. The use of this mask is not a guarantee against infection and SHOULD be used in addition to practicing CDC recommendations on hand washing and social distancing.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6105189482678</id>
+      <title>Black</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>153824</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6105189482678</id>
+      <title>Red</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>153823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6105189482678</id>
+      <title>Pink</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>153818</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4798080417872</id>
+    <published>2020-09-16T10:43:14-04:00</published>
+    <updated>2020-09-16T10:43:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/autumn-hand-embroidered-face-mask"/>
+    <title>Autumn Embroidered Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Saachistyle.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/RS47588_embroideredmask_1.jpg?v=1600267333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachistyle.com<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Please note: this face mask is NOT a direct substitute for N95, or medical masks and is not FDA approved. The use of this mask is not a guarantee against infection and SHOULD be used in addition to practicing CDC recommendations on hand washing and social distancing.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798080417872</id>
+      <title>Black</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153777</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798080417872</id>
+      <title>Maroon</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153778</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798080417872</id>
+      <title>Navy</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153779</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4798079565904</id>
+    <published>2020-09-16T10:43:14-04:00</published>
+    <updated>2020-09-16T10:43:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/hummingbird-hand-embroidered-face-mask"/>
+    <title>Hummingbird Hand-Embroidered Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Saachistyle.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/000102741153D08A_X.jpg?v=1618503454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachistyle.com<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":13187,"3":{"1":0},"4":[null,2,16043212],"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Featuring gorgeous traditional embroidery with vibrant colors, these three layered masks are perfect for spring events. \n\nElastic Ear Loops\nMaterial: 100% Cotton \nSize: 8” x 6.5”\n\nPlease note: this face mask is NOT a direct substitute for medical masks and is not FDA approved. The use of this mask is not a guarantee against infection and SHOULD be used in addition to practicing CDC recommendations on hand washing and social distancing."}'><span data-sheets-userformat='{"2":13187,"3":{"1":0},"4":[null,2,16043212],"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Featuring gorgeous traditional embroidery with vibrant colors, these three layered masks are perfect for spring events. \n\nElastic Ear Loops\nMaterial: 100% Cotton \nSize: 8” x 6.5”\n\nPlease note: this face mask is NOT a direct substitute for medical masks and is not FDA approved. The use of this mask is not a guarantee against infection and SHOULD be used in addition to practicing CDC recommendations on hand washing and social distancing."}'>Featuring gorgeous traditional embroidery with vibrant colors, these three-layered masks are perfect for spring events. <br><br></span></span>
+<ul>
+<li><span data-sheets-userformat='{"2":13187,"3":{"1":0},"4":[null,2,16043212],"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Featuring gorgeous traditional embroidery with vibrant colors, these three layered masks are perfect for spring events. \n\nElastic Ear Loops\nMaterial: 100% Cotton \nSize: 8” x 6.5”\n\nPlease note: this face mask is NOT a direct substitute for medical masks and is not FDA approved. The use of this mask is not a guarantee against infection and SHOULD be used in addition to practicing CDC recommendations on hand washing and social distancing."}'>Elastic Ear Loops</span></li>
+<li><span data-sheets-userformat='{"2":13187,"3":{"1":0},"4":[null,2,16043212],"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Featuring gorgeous traditional embroidery with vibrant colors, these three layered masks are perfect for spring events. \n\nElastic Ear Loops\nMaterial: 100% Cotton \nSize: 8” x 6.5”\n\nPlease note: this face mask is NOT a direct substitute for medical masks and is not FDA approved. The use of this mask is not a guarantee against infection and SHOULD be used in addition to practicing CDC recommendations on hand washing and social distancing."}'>Material: 100% Cotton </span></li>
+<li><span data-sheets-userformat='{"2":13187,"3":{"1":0},"4":[null,2,16043212],"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Featuring gorgeous traditional embroidery with vibrant colors, these three layered masks are perfect for spring events. \n\nElastic Ear Loops\nMaterial: 100% Cotton \nSize: 8” x 6.5”\n\nPlease note: this face mask is NOT a direct substitute for medical masks and is not FDA approved. The use of this mask is not a guarantee against infection and SHOULD be used in addition to practicing CDC recommendations on hand washing and social distancing."}'>Size: 8” x 6.5”</span></li>
+</ul>
+<span data-sheets-userformat='{"2":13187,"3":{"1":0},"4":[null,2,16043212],"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Featuring gorgeous traditional embroidery with vibrant colors, these three layered masks are perfect for spring events. \n\nElastic Ear Loops\nMaterial: 100% Cotton \nSize: 8” x 6.5”\n\nPlease note: this face mask is NOT a direct substitute for medical masks and is not FDA approved. The use of this mask is not a guarantee against infection and SHOULD be used in addition to practicing CDC recommendations on hand washing and social distancing."}'><br>Please note: this face mask is NOT a direct substitute for medical masks and is not FDA approved. The use of this mask is not a guarantee against infection and SHOULD be used in addition to practicing CDC recommendations on hand washing and social distancing.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>sd_comingsoon</s:tag>
+    <s:tag>sd_partial</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798079565904</id>
+      <title>Ivory</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153870</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798079565904</id>
+      <title>Grey</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798079565904</id>
+      <title>Black</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153780</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798079565904</id>
+      <title>Maroon</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153781</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798079565904</id>
+      <title>Navy</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153782</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4798076846160</id>
+    <published>2020-09-16T10:43:13-04:00</published>
+    <updated>2020-09-16T10:43:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/embroidered-face-mask"/>
+    <title>Bouquet of Flowers Embroidered Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Saachistyle.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/RS47587_embroideredmask_2.jpg?v=1600354358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachistyle.com<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Please note: this face mask is NOT a direct substitute for N95, or medical masks and is not FDA approved. The use of this mask is not a guarantee against infection and SHOULD be used in addition to practicing CDC recommendations on hand washing and social distancing.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>sd_partial</s:tag>
+    <s:tag>sd_preorder</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798076846160</id>
+      <title>Black</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153774</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798076846160</id>
+      <title>Maroon</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153775</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798076846160</id>
+      <title>Navy</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>153776</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4791669260368</id>
+    <published>2020-09-09T12:12:38-04:00</published>
+    <updated>2020-09-09T12:12:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/reversible-scarf-1"/>
+    <title>Reversible Scarf</title>
+    <s:type></s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/000091012301B53B_X.jpg?v=1599667978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>26" 73"</li>
+<li>100% Acrylic </li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>scarves</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4791669260368</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>153323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4791659135056</id>
+    <published>2020-09-09T11:45:36-04:00</published>
+    <updated>2020-09-09T11:45:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/floral-cheetah-reversible-scarf"/>
+    <title>Floral Cheetah Reversible Scarf</title>
+    <s:type></s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/00008985637B3375_X.jpg?v=1599666366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Acrylic</li>
+<li>28" x 70" </li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>scarves</s:tag>
+    <s:tag>sd_comingsoon</s:tag>
+    <s:tag>sd_preorder</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4791659135056</id>
+      <title>Black</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>153723</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4791659135056</id>
+      <title>Red</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>153766</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4791653859408</id>
+    <published>2020-09-09T11:38:42-04:00</published>
+    <updated>2020-09-09T11:38:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/reversible-scarf"/>
+    <title>Reversible Scarf</title>
+    <s:type></s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/0000898568981017_X.jpg?v=1599665936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>25" x 75"<br>
+</li>
+<li>Acrylic </li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>scarves</s:tag>
+    <s:tag>sd_comingsoon</s:tag>
+    <s:tag>sd_preorder</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4791653859408</id>
+      <title>Navy Fuchsia</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>153724</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4791653859408</id>
+      <title>Red Grey</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>153725</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4782419279952</id>
+    <published>2020-08-31T12:44:45-04:00</published>
+    <updated>2020-08-31T12:44:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/ivelle-eyelash-fringed-scarf"/>
+    <title>Ivelle Eyelash Fringed Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/d7ea262c5cbc04d4ab61bb716c073ffe.jpg?v=1598892254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Subtle, earthy, cozy Scraf is right on time for this season. Comfy, easy to match with your casual, business outfit.</p>
+<ul>
+<li>80" x 30"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aug31</s:tag>
+    <s:tag>Body_Print N/A</s:tag>
+    <s:tag>Color_Taupe</s:tag>
+    <s:tag>Material_Acrylic</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Tag_5f4d27fe23587</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4782419279952</id>
+      <title>Taupe</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>119823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4393023504464</id>
+    <published>2020-07-01T11:45:17-04:00</published>
+    <updated>2020-07-01T11:45:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/metallic-floral-vine-scarf"/>
+    <title>Metallic Floral Vine Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/13e7ee299c51a97fafd21f661426b7da.jpg?v=1575385444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            29.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>28 x 75</li>
+<li>100 % Wool</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Border Print</s:tag>
+    <s:tag>Body_Floral Print</s:tag>
+    <s:tag>Body_Metallic</s:tag>
+    <s:tag>Body_Mixed Print</s:tag>
+    <s:tag>holiday25</s:tag>
+    <s:tag>Material_Wool</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>SCARF</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393023504464</id>
+      <title>Ivory</title>
+      <s:price currency="USD">29.25</s:price>
+      <s:sku>130132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4469767340112</id>
+    <published>2020-02-18T15:18:54-05:00</published>
+    <updated>2020-02-18T15:18:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/wild-at-heart-scarf"/>
+    <title>Wild At Heart Wool Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/wildatheartscarf-pinkmulti-153599-3.jpg?v=1590604782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Take a walk on the wild side with our Wild at Heart Scarf. This piece features leopard print with a colorful twist, a pink background speckled with gorgeous blue spots. The wool lurex fabric makes this scarf the perfect piece to drape over your shoulders on a breezy day. Bring something fierce and stylish to your collection.\nMaterials: Wool, Lurex\nSize: 27” x 78”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Take a walk on the wild side with our Wild at Heart Scarf. This piece features leopard print with a colorful twist, a pink background speckled with gorgeous blue spots. The wool lurex fabric makes this scarf the perfect piece to drape over your shoulders on a breezy day. Bring something fierce and stylish to your collection.\nMaterials: Wool, Lurex\nSize: 27” x 78”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Take a walk on the wild side with our Wild at Heart Scarf. This piece features leopard print with a colorful twist, a pink background speckled with gorgeous blue spots. The wool lurex fabric makes this scarf the perfect piece to drape over your shoulders on a breezy day. Bring something fierce and stylish to your collection.<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Take a walk on the wild side with our Wild at Heart Scarf. This piece features leopard print with a colorful twist, a pink background speckled with gorgeous blue spots. The wool lurex fabric makes this scarf the perfect piece to drape over your shoulders on a breezy day. Bring something fierce and stylish to your collection.\nMaterials: Wool, Lurex\nSize: 27” x 78”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Wool, Lurex</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Take a walk on the wild side with our Wild at Heart Scarf. This piece features leopard print with a colorful twist, a pink background speckled with gorgeous blue spots. The wool lurex fabric makes this scarf the perfect piece to drape over your shoulders on a breezy day. Bring something fierce and stylish to your collection.\nMaterials: Wool, Lurex\nSize: 27” x 78”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 27” x 78”</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Take a walk on the wild side with our Wild at Heart Scarf. This piece features leopard print with a colorful twist, a pink background speckled with gorgeous blue spots. The wool lurex fabric makes this scarf the perfect piece to drape over your shoulders on a breezy day. Bring something fierce and stylish to your collection.\nMaterials: Wool, Lurex\nSize: 27” x 78”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Made in India</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Animal Print</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>Material_Lurex</s:tag>
+    <s:tag>Material_Wool</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4469767340112</id>
+      <title>PINK MULTI</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>153599</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4469763932240</id>
+    <published>2020-02-17T15:12:32-05:00</published>
+    <updated>2020-02-17T15:12:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/metallic-arrow-scarf"/>
+    <title>Metallic Arrow Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/2f923d37d73729dcc6fc3057261fe66d.jpg?v=1581861348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Showcase your keen eye for fashion with Our Metallic Arrow Scarf. This piece features a modern design of minimalist arrows in neutral or multi colors on light cotton. Add a timeless accessory to your collection!\r\nMaterials: Cotton\r\nSize: 28” x 71”\r\nMade in India \r"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Showcase your keen eye for fashion with Our Metallic Arrow Scarf. This piece features a modern design of minimalist arrows in neutral or multi colors on light cotton. Add a timeless accessory to your collection!\r\nMaterials: Cotton\r\nSize: 28” x 71”\r\nMade in India \r"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Showcase your keen eye for fashion with Our Metallic Arrow Scarf. This piece features a modern design of minimalist arrows in neutral or multi colors on light cotton. Add a timeless accessory to your collection! <br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Showcase your keen eye for fashion with Our Metallic Arrow Scarf. This piece features a modern design of minimalist arrows in neutral or multi colors on light cotton. Add a timeless accessory to your collection!\r\nMaterials: Cotton\r\nSize: 28” x 71”\r\nMade in India \r"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Cotton </span></li>
+<li><span data-sheets-value='{"1":2,"2":"Showcase your keen eye for fashion with Our Metallic Arrow Scarf. This piece features a modern design of minimalist arrows in neutral or multi colors on light cotton. Add a timeless accessory to your collection!\r\nMaterials: Cotton\r\nSize: 28” x 71”\r\nMade in India \r"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 28” x 71” </span></li>
+<li><span data-sheets-value='{"1":2,"2":"Showcase your keen eye for fashion with Our Metallic Arrow Scarf. This piece features a modern design of minimalist arrows in neutral or multi colors on light cotton. Add a timeless accessory to your collection!\r\nMaterials: Cotton\r\nSize: 28” x 71”\r\nMade in India \r"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Made in India </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Body_Metallic Print</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>Woven</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4469763932240</id>
+      <title>Ivory</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>153569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4469758754896</id>
+    <published>2020-02-17T12:15:14-05:00</published>
+    <updated>2020-02-17T12:15:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/beautiful-ombre-scarf-multi"/>
+    <title>Beautiful Ombre Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/e4e6437c9491fa29feda95bf1462b362.jpg?v=1581860265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Crafted from merino wool, this colorful ombre scarf is a can't-leave-home-without-it necessity.</div>
+<ul>
+<li>100% Merino Wool</li>
+<li>28" x 79" </li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Body_Ombre Print</s:tag>
+    <s:tag>Body_Woven</s:tag>
+    <s:tag>Cashmere</s:tag>
+    <s:tag>lightgreen</s:tag>
+    <s:tag>Material_Wool</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>scarf</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4469758754896</id>
+      <title>Multi</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>153375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4392989524048</id>
+    <published>2020-02-07T14:45:11-05:00</published>
+    <updated>2020-02-07T14:45:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/faded-tie-dye-scarf"/>
+    <title>Faded Tie Dye Scarf</title>
+    <s:type>Oblong Scarves</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/c882d10ee6b6c708b9f6ee2e4249e8a2.jpg?v=1575383795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Oblong Scarves<br>
+        <strong>Price: </strong>
+            16.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Our Faded Tie Dye Scarf is a chic essential for warm weather escapes. Whether it’s in neutrals, pinks, or cool colors, the tie-dye pattern is always unique. The breezy smooth fabric is perfect for throwing on top of any outfit. \nMaterials: Wool, Silk, Polyester\nSize: 39” x 79”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Our Faded Tie Dye Scarf is a chic essential for warm weather escapes. Whether it’s in neutrals, pinks, or cool colors, the tie-dye pattern is always unique. The breezy smooth fabric is perfect for throwing on top of any outfit. \nMaterials: Wool, Silk, Polyester\nSize: 39” x 79”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Our Faded Tie Dye Scarf is a chic essential for warm weather escapes. Whether it’s in neutrals, pinks, or cool colors, the tie-dye pattern is always unique. The breezy smooth fabric is perfect for throwing on top of any outfit. <br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Our Faded Tie Dye Scarf is a chic essential for warm weather escapes. Whether it’s in neutrals, pinks, or cool colors, the tie-dye pattern is always unique. The breezy smooth fabric is perfect for throwing on top of any outfit. \nMaterials: Wool, Silk, Polyester\nSize: 39” x 79”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Wool, Silk, Polyester</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our Faded Tie Dye Scarf is a chic essential for warm weather escapes. Whether it’s in neutrals, pinks, or cool colors, the tie-dye pattern is always unique. The breezy smooth fabric is perfect for throwing on top of any outfit. \nMaterials: Wool, Silk, Polyester\nSize: 39” x 79”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 39” x 79”</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our Faded Tie Dye Scarf is a chic essential for warm weather escapes. Whether it’s in neutrals, pinks, or cool colors, the tie-dye pattern is always unique. The breezy smooth fabric is perfect for throwing on top of any outfit. \nMaterials: Wool, Silk, Polyester\nSize: 39” x 79”\nMade in India\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Made in India</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Body_Tie and Dye</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>Material_Cotton</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:tag>SCARF</s:tag>
+    <s:tag>scarves</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>Spring2021Scarves</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392989524048</id>
+      <title>Pink</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>130065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392989524048</id>
+      <title>Gray</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>120079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

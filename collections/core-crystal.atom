@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://saachiwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://saachiwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://saachiwholesale.com/collections/core-crystal.atom"/>
+  <title>Saachi Wholesale</title>
+  <updated>2020-10-16T13:55:07-04:00</updated>
+  <author>
+    <name>Saachi Wholesale</name>
+  </author>
+  <entry>
+    <id>https://saachiwholesale.com/products/4822771531856</id>
+    <published>2020-10-16T13:55:07-04:00</published>
+    <updated>2020-10-16T13:55:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/3-layer-pearl-crystal-necklace"/>
+    <title>3 Layer Pearl Crystal Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/7fd20ca5df09e5df4304d1ec2a4b06f3.jpg?v=1602867432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Layer Pearl Crystal NK BROWN</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Box Clasp</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>holiday25</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>salejewel</s:tag>
+    <s:tag>Tag_5f89d0ae62d84</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4822771531856</id>
+      <title>Brown</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>608111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4760945590352</id>
+    <published>2020-08-05T10:45:36-04:00</published>
+    <updated>2020-08-05T10:45:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/multi-strand-crystal-ombre-necklace-1"/>
+    <title>Multi Strand Crystal Ombre Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/multistrandcrystalombrenecklace_darkcoffee_609604_5.jpg?v=1599063692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Multi-Color Multi Strand Crystal Necklace With Magnet Closure </li>
+<li>18" Long Open</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Magnetic Clasp</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Navy</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>holiday25</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Tag_5f2868ac59e47</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4760945590352</id>
+      <title>Brown</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>609604</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4760945590352</id>
+      <title>Navy</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>609602</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4760945590352</id>
+      <title>Grey</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>609603</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4760944541776</id>
+    <published>2020-08-05T10:36:24-04:00</published>
+    <updated>2020-08-05T10:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/crystal-ombre-multi-strand-bracelet"/>
+    <title>Crystal Ombre Multi Strand Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/crystalombremultistrandbracelet_coffee_609607.jpg?v=1599063743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Crystal Necklace With Magnet Closure Grey</li>
+<li>8" Long Open 1" Wide</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Body_Magnetic Clasp</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Color_Brown</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Color_Navy</s:tag>
+    <s:tag>holiday25</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>Tag_5f2868ac59e47</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4760944541776</id>
+      <title>Brown</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>609607</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4760944541776</id>
+      <title>Navy</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>609605</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4760944541776</id>
+      <title>Blue</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>609348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4760944541776</id>
+      <title>Grey</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>609606</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4760944509008</id>
+    <published>2020-08-05T10:11:33-04:00</published>
+    <updated>2020-08-05T10:11:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/crystal-bundle-bracelet"/>
+    <title>Crystal Bundle Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/67e62fe3eeb0bb24ce516e623a2b35be.jpg?v=1596483807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Add simple elegance to your pretty outfit with this beautiful multistrand beaded bracelet that sparkles and shines with every step. Our Crystal Bundle Bracelet is finished with a magnetic ball closure for an easy to slip on bracelet. Wear it with the coordinating Crystal Bundle Necklace for a matching look.\nGlass Beads\nSize: 7.5\"\nMagnetic Ball Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Add simple elegance to your pretty outfit with this beautiful multistrand beaded bracelet that sparkles and shines with every step. Our Crystal Bundle Bracelet is finished with a magnetic ball closure for an easy to slip on bracelet. Wear it with the coordinating Crystal Bundle Necklace for a matching look.\nGlass Beads\nSize: 7.5\"\nMagnetic Ball Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Add simple elegance to your pretty outfit with this beautiful multi strand beaded bracelet that sparkles and shines with every step. Our Crystal Bundle Bracelet is finished with a magnetic ball closure for an easy to slip on bracelet. Wear it with the coordinating Crystal Bundle Necklace for a matching look.<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Add simple elegance to your pretty outfit with this beautiful multistrand beaded bracelet that sparkles and shines with every step. Our Crystal Bundle Bracelet is finished with a magnetic ball closure for an easy to slip on bracelet. Wear it with the coordinating Crystal Bundle Necklace for a matching look.\nGlass Beads\nSize: 7.5\"\nMagnetic Ball Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Material : Glass Beads</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Add simple elegance to your pretty outfit with this beautiful multistrand beaded bracelet that sparkles and shines with every step. Our Crystal Bundle Bracelet is finished with a magnetic ball closure for an easy to slip on bracelet. Wear it with the coordinating Crystal Bundle Necklace for a matching look.\nGlass Beads\nSize: 7.5\"\nMagnetic Ball Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 7.5"</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Add simple elegance to your pretty outfit with this beautiful multistrand beaded bracelet that sparkles and shines with every step. Our Crystal Bundle Bracelet is finished with a magnetic ball closure for an easy to slip on bracelet. Wear it with the coordinating Crystal Bundle Necklace for a matching look.\nGlass Beads\nSize: 7.5\"\nMagnetic Ball Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Magnetic Ball Clasp</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>Color_Champagne</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_Turquoise</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Tag_5f2868ac59e47</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4760944509008</id>
+      <title>Silver</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>609296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4760944509008</id>
+      <title>Champagne</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>609295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4760944509008</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>609297</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4647143374928</id>
+    <published>2020-07-01T11:45:17-04:00</published>
+    <updated>2020-07-01T11:45:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/crystal-pearl-bracelet-1"/>
+    <title>Crystal Pearl Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/d669021288dcf64a1e8b56ba470b80d6.jpg?v=1591299389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            5.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>8.5" x 1"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>03June</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>Color_Aqua Green</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>jun4</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Material_Pearls</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_5ed94d3bc8421</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4647143374928</id>
+      <title>Aqua Green</title>
+      <s:price currency="USD">5.60</s:price>
+      <s:sku>612702</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4393016524880</id>
+    <published>2020-07-01T11:45:17-04:00</published>
+    <updated>2020-07-01T11:45:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/light-as-pearl-necklace-black"/>
+    <title>Light As Pearl Long Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/73fd8420cbc4423965e9ad4c1e1c47b7.jpg?v=1575385031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"A shimmering strand constructed of crystal beads and sparkling white pearls - perfect for styling with a plain t-shirt, cozy knit, or sleek buttondown. Our Light as Pearl Necklace adds a touch of subtle shine and elegance to any look!\n\nMaterials: Glass Beads, Pearls\nSize: 17\" Long"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"A shimmering strand constructed of crystal beads and sparkling white pearls - perfect for styling with a plain t-shirt, cozy knit, or sleek buttondown. Our Light as Pearl Necklace adds a touch of subtle shine and elegance to any look!\n\nMaterials: Glass Beads, Pearls\nSize: 17\" Long"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">A shimmering strand constructed of crystal beads and sparkling white pearls - perfect for styling with a plain t-shirt, cozy knit, or sleek button down. Our Light as Pearl Necklace adds a touch of subtle shine and elegance to any look!<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"A shimmering strand constructed of crystal beads and sparkling white pearls - perfect for styling with a plain t-shirt, cozy knit, or sleek buttondown. Our Light as Pearl Necklace adds a touch of subtle shine and elegance to any look!\n\nMaterials: Glass Beads, Pearls\nSize: 17\" Long"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Materials: Glass Beads, Pearls</span></li>
+<li><span data-sheets-value='{"1":2,"2":"A shimmering strand constructed of crystal beads and sparkling white pearls - perfect for styling with a plain t-shirt, cozy knit, or sleek buttondown. Our Light as Pearl Necklace adds a touch of subtle shine and elegance to any look!\n\nMaterials: Glass Beads, Pearls\nSize: 17\" Long"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Size: 17" Long</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>Body_Necklace</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Material_Pearls</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393016524880</id>
+      <title>Black</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>617808</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393016524880</id>
+      <title>White</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>612719</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393016524880</id>
+      <title>Aqua</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>612720</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393016524880</id>
+      <title>Gray</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>617807</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393016524880</id>
+      <title>Blue</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>612721</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4646120882256</id>
+    <published>2020-06-04T14:04:46-04:00</published>
+    <updated>2020-06-04T14:04:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/baroque-knotted-pearl-nk"/>
+    <title>Baroque Knotted Pearl Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/baroqueknottedpearlnecklace_cobaltblue_612811.jpg?v=1592931472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"A glass beaded knotted necklace tipped with two baroque pearls. For maximum impact, wear with your hair up and a pair of pearl earrings. \n\nSize: 20.6\" Long\nBaroque Pearls, Glass Beads, Crystals"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">A glass beaded knotted necklace tipped with two baroque pearls. For maximum impact, wear with your hair up and a pair of pearl earrings. <br data-mce-fragment="1"></span></p>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"A glass beaded knotted necklace tipped with two baroque pearls. For maximum impact, wear with your hair up and a pair of pearl earrings. \n\nSize: 20.6\" Long\nBaroque Pearls, Glass Beads, Crystals"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Materials : Baroque Pearls, Glass Beads, Crystals</span></li>
+<li><span data-sheets-value='{"1":2,"2":"A glass beaded knotted necklace tipped with two baroque pearls. For maximum impact, wear with your hair up and a pair of pearl earrings. \n\nSize: 20.6\" Long\nBaroque Pearls, Glass Beads, Crystals"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Size: 20.6" Long</span></li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>03June</s:tag>
+    <s:tag>Body_NA</s:tag>
+    <s:tag>Color_Blush</s:tag>
+    <s:tag>Color_Champagne</s:tag>
+    <s:tag>Color_Cobalt Blue</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Material_Glass Beads</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_5ed7cfe755e2b</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646120882256</id>
+      <title>Cobalt Blue</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>612811</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646120882256</id>
+      <title>Champagne</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>612809</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646120882256</id>
+      <title>White</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>612812</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646120882256</id>
+      <title>Blush</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>612814</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4646121668688</id>
+    <published>2020-06-04T14:04:41-04:00</published>
+    <updated>2020-06-04T14:04:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/crystal-pearl-bracelet"/>
+    <title>Crystal Pearl Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/0000801301321541_X.jpg?v=1591638232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>BL Four Strand Crystal and Pearl Bracelet</li>
+<li>8.5" x 1"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>03June</s:tag>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Material_Pearls</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_5ed7cfe755e2b</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646121668688</id>
+      <title>Navy</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>612290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646121668688</id>
+      <title>White</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>612703</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646121668688</id>
+      <title>Silver</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>612289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646121668688</id>
+      <title>Clear</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>612703</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4392966258768</id>
+    <published>2020-02-07T14:45:36-05:00</published>
+    <updated>2020-02-07T14:45:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/cluster-party-necklace-gold"/>
+    <title>Cluster Party Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/ff931c14c5976b18d4094884e74dac01.jpg?v=1575382764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Let our Cluster Party Pearl Necklace sweep you off your feet. This delicate chain necklace features a modern twist with its cluster of pearls - staying on trend while maintaining its timelessness. \n\nMaterials: Matte Gold Plated, White Glass Pearl, Clear Crystal Ball, Metal Chain\n38\" Long Measured Open\nLobster Clasp with 3.5\" Chain Extender\nImported"}'>Let our Cluster Party Pearl Necklace sweep you off your feet. This delicate chain necklace features a modern twist with its cluster of pearls - staying on trend while maintaining its timelessness. <br><br></span></p>
+<ul>
+<li><span data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Let our Cluster Party Pearl Necklace sweep you off your feet. This delicate chain necklace features a modern twist with its cluster of pearls - staying on trend while maintaining its timelessness. \n\nMaterials: Matte Gold Plated, White Glass Pearl, Clear Crystal Ball, Metal Chain\n38\" Long Measured Open\nLobster Clasp with 3.5\" Chain Extender\nImported"}'>Materials: Matte Gold Plated, White Glass Pearl, Clear Crystal Ball, Metal Chain</span></li>
+<li><span data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Let our Cluster Party Pearl Necklace sweep you off your feet. This delicate chain necklace features a modern twist with its cluster of pearls - staying on trend while maintaining its timelessness. \n\nMaterials: Matte Gold Plated, White Glass Pearl, Clear Crystal Ball, Metal Chain\n38\" Long Measured Open\nLobster Clasp with 3.5\" Chain Extender\nImported"}'>38" Long Measured Open</span></li>
+<li><span data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Let our Cluster Party Pearl Necklace sweep you off your feet. This delicate chain necklace features a modern twist with its cluster of pearls - staying on trend while maintaining its timelessness. \n\nMaterials: Matte Gold Plated, White Glass Pearl, Clear Crystal Ball, Metal Chain\n38\" Long Measured Open\nLobster Clasp with 3.5\" Chain Extender\nImported"}'>Lobster Clasp with 3.5" Chain Extender</span></li>
+<li><span data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"Let our Cluster Party Pearl Necklace sweep you off your feet. This delicate chain necklace features a modern twist with its cluster of pearls - staying on trend while maintaining its timelessness. \n\nMaterials: Matte Gold Plated, White Glass Pearl, Clear Crystal Ball, Metal Chain\n38\" Long Measured Open\nLobster Clasp with 3.5\" Chain Extender\nImported"}'>Imported</span></li>
+</ul>
+<ul></ul>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Lobster Claw</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>goldenrod</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Material_Metal</s:tag>
+    <s:tag>Material_Pearls</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392966258768</id>
+      <title>Gold</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>617915</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4392967209040</id>
+    <published>2020-02-07T14:45:32-05:00</published>
+    <updated>2020-02-07T14:45:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/convertible-multi-layer-pearl"/>
+    <title>Convertible Multi Layer Pearl Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/2287088abbd461e52392c4a416790d89.jpg?v=1575382803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            11.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Featuring shimmering strands of crystal beads and pearls, our Convertible Multi Layer Pearl Necklace is the epitome of classic and feminine. It's the perfect combination for day and night, with multiple ways to wear. Wear it as a long necklace, short necklace, bracelet...our most versatile piece!\n\nMaterials: Glass Beads, Pearls, Crystal\nSIze: 18\&quot; x 1\&quot;\nPave Magnetic Ball&quot;}" data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Featuring shimmering strands of crystal beads and pearls, our Convertible Multi Layer Pearl Necklace is the epitome of classic and feminine. It's the perfect combination for day and night, with multiple ways to wear. Wear it as a long necklace, short necklace, bracelet...our most versatile piece!\n\nMaterials: Glass Beads, Pearls, Crystal\nSIze: 18\&quot; x 1\&quot;\nPave Magnetic Ball&quot;}" data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Featuring shimmering strands of crystal beads and pearls, our Convertible Multi Layer Pearl Necklace is the epitome of classic and feminine. It's the perfect combination for day and night, with multiple ways to wear. Wear it as a long necklace, short necklace, bracelet...our most versatile piece!<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Featuring shimmering strands of crystal beads and pearls, our Convertible Multi Layer Pearl Necklace is the epitome of classic and feminine. It's the perfect combination for day and night, with multiple ways to wear. Wear it as a long necklace, short necklace, bracelet...our most versatile piece!\n\nMaterials: Glass Beads, Pearls, Crystal\nSIze: 18\&quot; x 1\&quot;\nPave Magnetic Ball&quot;}" data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Materials: Glass Beads, Pearls, Crystal</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Featuring shimmering strands of crystal beads and pearls, our Convertible Multi Layer Pearl Necklace is the epitome of classic and feminine. It's the perfect combination for day and night, with multiple ways to wear. Wear it as a long necklace, short necklace, bracelet...our most versatile piece!\n\nMaterials: Glass Beads, Pearls, Crystal\nSIze: 18\&quot; x 1\&quot;\nPave Magnetic Ball&quot;}" data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Size: 18" x 1"</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Featuring shimmering strands of crystal beads and pearls, our Convertible Multi Layer Pearl Necklace is the epitome of classic and feminine. It's the perfect combination for day and night, with multiple ways to wear. Wear it as a long necklace, short necklace, bracelet...our most versatile piece!\n\nMaterials: Glass Beads, Pearls, Crystal\nSIze: 18\&quot; x 1\&quot;\nPave Magnetic Ball&quot;}" data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Pave Magnetic Ball</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Beaded</s:tag>
+    <s:tag>Material_Pearls</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392967209040</id>
+      <title>Champagne</title>
+      <s:price currency="USD">11.20</s:price>
+      <s:sku>617912</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392967209040</id>
+      <title>Navy</title>
+      <s:price currency="USD">11.20</s:price>
+      <s:sku>617913</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4392983527504</id>
+    <published>2020-02-07T14:45:24-05:00</published>
+    <updated>2020-02-07T14:45:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/delicate-layer-necklace"/>
+    <title>Delicate Layer Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/3a946dabd6a069d50bcd4746a98fe25d.jpg?v=1579815770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"When you wear the Delicate Layer Necklace, you’ll carry elegance wherever you go. This cute three-layered necklace features both metallic and glass beads, and dangling teardrop-shaped crystals.  \nMaterials: Crystals, Metallic Beads, Glass Beads\nSize: 16.5\" Long\nLobster Clasp with 3\" Extender"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">When you wear the Delicate Layer Necklace, you’ll carry elegance wherever you go. This cute three-layered necklace features both metallic and glass beads, and dangling teardrop-shaped crystals.  <br data-mce-fragment="1"></span></p>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"When you wear the Delicate Layer Necklace, you’ll carry elegance wherever you go. This cute three-layered necklace features both metallic and glass beads, and dangling teardrop-shaped crystals.  \nMaterials: Crystals, Metallic Beads, Glass Beads\nSize: 16.5\" Long\nLobster Clasp with 3\" Extender"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Crystals, Metallic Beads, Glass Beads</span></li>
+<li><span data-sheets-value='{"1":2,"2":"When you wear the Delicate Layer Necklace, you’ll carry elegance wherever you go. This cute three-layered necklace features both metallic and glass beads, and dangling teardrop-shaped crystals.  \nMaterials: Crystals, Metallic Beads, Glass Beads\nSize: 16.5\" Long\nLobster Clasp with 3\" Extender"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 16.5" Long</span></li>
+<li><span data-sheets-value='{"1":2,"2":"When you wear the Delicate Layer Necklace, you’ll carry elegance wherever you go. This cute three-layered necklace features both metallic and glass beads, and dangling teardrop-shaped crystals.  \nMaterials: Crystals, Metallic Beads, Glass Beads\nSize: 16.5\" Long\nLobster Clasp with 3\" Extender"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Lobster Clasp with 3" Extender</span></li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Lobster Claw</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Beaded</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>Material_MetallicBeads</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392983527504</id>
+      <title>Gray</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>601812</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4392984281168</id>
+    <published>2020-02-07T14:45:22-05:00</published>
+    <updated>2020-02-07T14:45:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/detachable-crystal-pearl-neckl"/>
+    <title>Detachable Crystal Pearl Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/98399a78c0b93b492aafbba445e5108f.jpg?v=1575383619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bl Pear Crystal Detachable Nk<br>
+<ul>
+<li>Light Grey</li>
+<li>Glass Beads</li>
+<li>Magnetic Pave Ball Closure</li>
+<li>17" Long</li>
+<li>Necklace Is 26" Long Measured Open When Detached</li>
+<li>Bracelet is 8" Long When Detached by 1"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>Material_GlassPearl</s:tag>
+    <s:tag>Material_Pearls</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392984281168</id>
+      <title>Gray</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>618033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4392983986256</id>
+    <published>2020-02-07T14:45:22-05:00</published>
+    <updated>2020-02-07T14:45:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/detachable-crystal-pearl"/>
+    <title>Detachable Crystal Pearl</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/9e5ec437239f82e0843879fcb6ebf1bd.jpg?v=1575383610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Detachable Crystal Pearl Necklace DARK GREY</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Magnetic Clasp</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4392983986256</id>
+      <title>Dark Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>618031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4393022324816</id>
+    <published>2020-02-07T14:44:28-05:00</published>
+    <updated>2020-02-07T14:44:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/marie-beaded-layered-necklace"/>
+    <title>Marie Beaded Layered Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/000071465907C759_X.jpg?v=1610566253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Channel your inner royalty with our Marie Necklace. Each chain features an array of blush, green, or blue stones and glass beads, but come together to create a fabulous stacked look. The stone pendant adds the perfect touch of opulence.                                                                                                                          Materials: Natural Stone Glass Bead, Brass \nSize: 17\" x 1\", Pendant: 1\" x 1\"  \nLobster Clasp with Extender Chain\nN/A\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Channel your inner royalty with our Marie Necklace. Each chain features an array of blush, green, or blue stones and glass beads, but come together to create a fabulous stacked look. The stone pendant adds the perfect touch of opulence. </span></p>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Channel your inner royalty with our Marie Necklace. Each chain features an array of blush, green, or blue stones and glass beads, but come together to create a fabulous stacked look. The stone pendant adds the perfect touch of opulence.                                                                                                                          Materials: Natural Stone Glass Bead, Brass \nSize: 17\" x 1\", Pendant: 1\" x 1\"  \nLobster Clasp with Extender Chain\nN/A\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Natural Stone Glass Bead, Brass </span></li>
+<li><span data-sheets-value='{"1":2,"2":"Channel your inner royalty with our Marie Necklace. Each chain features an array of blush, green, or blue stones and glass beads, but come together to create a fabulous stacked look. The stone pendant adds the perfect touch of opulence.                                                                                                                          Materials: Natural Stone Glass Bead, Brass \nSize: 17\" x 1\", Pendant: 1\" x 1\"  \nLobster Clasp with Extender Chain\nN/A\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 17" x 1", Pendant: 1" x 1" </span></li>
+<li><span data-sheets-value='{"1":2,"2":"Channel your inner royalty with our Marie Necklace. Each chain features an array of blush, green, or blue stones and glass beads, but come together to create a fabulous stacked look. The stone pendant adds the perfect touch of opulence.                                                                                                                          Materials: Natural Stone Glass Bead, Brass \nSize: 17\" x 1\", Pendant: 1\" x 1\"  \nLobster Clasp with Extender Chain\nN/A\n"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Lobster Clasp with Extender Chain</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Body_Lobster Claw</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lightgreen</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>Material_NaturalStone</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393022324816</id>
+      <title>Blush</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>609883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393022324816</id>
+      <title>Blue</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>609887</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4393031303248</id>
+    <published>2020-02-07T14:44:05-05:00</published>
+    <updated>2020-02-07T14:44:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/pearl-crystal-detachable-nk"/>
+    <title>Pearl Crystal Detachable Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/62fc0affe2fb525f577f83ea6075aa4e.jpg?v=1575386094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            16.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Glass Beads<br>
+</li>
+<li>Magnetic Pave Ball Closure</li>
+<li>17" Long</li>
+<li>Necklace is 26" Long Measured Open When Detached</li>
+<li>Bracelet is 8" Long When Detached by 1"</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Beaded</s:tag>
+    <s:tag>Material_GlassPearl</s:tag>
+    <s:tag>Material_Pearls</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>SS2020</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4393031303248</id>
+      <title>Ivory</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>618032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4456555151440</id>
+    <published>2020-02-07T14:41:59-05:00</published>
+    <updated>2020-02-07T14:41:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/multi-strand-crystal-bracelet"/>
+    <title>Multi Strand Crystal Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/multistrandcrystalbracelet-peach-614793.jpg?v=1590590306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            6.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Our core crystal collection is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball closure, these bracelets have the added bonus of being effortless to fashion! \n\nMaterials: Glass Beads\nSize: 8\" x 1.5\"\nPave Magnetic Clasp"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Our core crystal collection is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball closure, these bracelets have the added bonus of being effortless to fashion! \n\nMaterials: Glass Beads\nSize: 8\" x 1.5\"\nPave Magnetic Clasp"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Our core crystal collection is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball closure, these bracelets have the added bonus of being effortless to fashion!<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Our core crystal collection is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball closure, these bracelets have the added bonus of being effortless to fashion! \n\nMaterials: Glass Beads\nSize: 8\" x 1.5\"\nPave Magnetic Clasp"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Materials: Glass Beads</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our core crystal collection is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball closure, these bracelets have the added bonus of being effortless to fashion! \n\nMaterials: Glass Beads\nSize: 8\" x 1.5\"\nPave Magnetic Clasp"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Size: 8" x 1.5"</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our core crystal collection is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball closure, these bracelets have the added bonus of being effortless to fashion! \n\nMaterials: Glass Beads\nSize: 8\" x 1.5\"\nPave Magnetic Clasp"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Pave Magnetic Clasp</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our core crystal collection is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball closure, these bracelets have the added bonus of being effortless to fashion! \n\nMaterials: Glass Beads\nSize: 8\" x 1.5\"\nPave Magnetic Clasp"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Our core crystal collection is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball closure, these bracelets have the added bonus of being effortless to fashion! \n\nMaterials: Glass Beads\nSize: 8\" x 1.5\"\nPave Magnetic Clasp"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Imported</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Ball Clasp</s:tag>
+    <s:tag>Body_Magnetic Clasp</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Beaded</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4456555151440</id>
+      <title>Peach</title>
+      <s:price currency="USD">6.30</s:price>
+      <s:sku>614793</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4456555216976</id>
+    <published>2020-02-07T14:41:58-05:00</published>
+    <updated>2020-02-07T14:41:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/nightlight-long-layered-neckla"/>
+    <title>Nightlight Long Layered Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/18b9fce7390e1014351cfbe6ad882c96.jpg?v=1580496134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"With shimmering strands of crystals and beads, this layered necklace gives you the look of a multi-strand style without the hassle. Paired with either a sweater or a dress, our Nightlight Long Layered Necklace will easily transition from season to season. \n\nGlass Beads, Crystal Stones, Brass\n23\" Long Measured Open\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"With shimmering strands of crystals and beads, this layered necklace gives you the look of a multi-strand style without the hassle. Paired with either a sweater or a dress, our Nightlight Long Layered Necklace will easily transition from season to season. \n\nGlass Beads, Crystal Stones, Brass\n23\" Long Measured Open\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">With shimmering strands of crystals and beads, this layered necklace gives you the look of a multi-strand style without the hassle. Paired with either a sweater or a dress, our Nightlight Long Layered Necklace will easily transition from season to season.<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"With shimmering strands of crystals and beads, this layered necklace gives you the look of a multi-strand style without the hassle. Paired with either a sweater or a dress, our Nightlight Long Layered Necklace will easily transition from season to season. \n\nGlass Beads, Crystal Stones, Brass\n23\" Long Measured Open\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials : Glass Beads, Crystal Stones, Brass</span></li>
+<li><span data-sheets-value='{"1":2,"2":"With shimmering strands of crystals and beads, this layered necklace gives you the look of a multi-strand style without the hassle. Paired with either a sweater or a dress, our Nightlight Long Layered Necklace will easily transition from season to season. \n\nGlass Beads, Crystal Stones, Brass\n23\" Long Measured Open\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size : 23" Long Measured Open</span></li>
+<li><span data-sheets-value='{"1":2,"2":"With shimmering strands of crystals and beads, this layered necklace gives you the look of a multi-strand style without the hassle. Paired with either a sweater or a dress, our Nightlight Long Layered Necklace will easily transition from season to season. \n\nGlass Beads, Crystal Stones, Brass\n23\" Long Measured Open\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Lobster Clasp</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>Body_Lobster Claw</s:tag>
+    <s:tag>holiday25</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4456555216976</id>
+      <title>Champagne</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>614670</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4456555741264</id>
+    <published>2020-02-07T14:41:54-05:00</published>
+    <updated>2020-02-07T14:41:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/pari-necklace"/>
+    <title>Pari Long Tassel Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/e3c89cf1d1145a5212eba3d8f4a699d6.jpg?v=1580496182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Trendy with its tassel yet timeless in silhouette, our Pari Long Beaded Tassel Necklace is a piece that everyone will love! Available in two colors, you'll want to pair this beaded tassel necklace with every outfit.&quot;}" data-sheets-userformat='{"2":8961,"3":{"1":0},"11":4,"12":0,"16":9}'>Trendy with its tassel yet timeless in silhouette, our Pari Long Beaded Tassel Necklace is a piece that everyone will love! Available in two colors, you'll want to pair this beaded tassel necklace with every outfit.</span></p>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<ul>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Trendy with its tassel yet timeless in silhouette, our Pari Long Beaded Tassel Necklace is a piece that everyone will love! Available in two colors, you'll want to pair this beaded tassel necklace with every outfit.&quot;}" data-sheets-userformat='{"2":8961,"3":{"1":0},"11":4,"12":0,"16":9}'>Material: Glass Beads, Crystals, Polyester Thread</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Trendy with its tassel yet timeless in silhouette, our Pari Long Beaded Tassel Necklace is a piece that everyone will love! Available in two colors, you'll want to pair this beaded tassel necklace with every outfit.&quot;}" data-sheets-userformat='{"2":8961,"3":{"1":0},"11":4,"12":0,"16":9}'>20" Length with 4" Tassel</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Trendy with its tassel yet timeless in silhouette, our Pari Long Beaded Tassel Necklace is a piece that everyone will love! Available in two colors, you'll want to pair this beaded tassel necklace with every outfit.&quot;}" data-sheets-userformat='{"2":8961,"3":{"1":0},"11":4,"12":0,"16":9}'>Imported</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>Body_Necklace</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Beaded</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>Material_MetallicBeads</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4456555741264</id>
+      <title>Black</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>609892</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4456555741264</id>
+      <title>Mauve</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>610050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4456557477968</id>
+    <published>2020-02-07T14:41:42-05:00</published>
+    <updated>2020-02-07T14:41:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/signature-multi-strand-green-c"/>
+    <title>Signature Layered Crystal Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/b50fafeedbd3aabcac5e4fce4f9056fe.jpg?v=1580497567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            8.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3 .25" Pave Magnetic Ball Closure</li>
+<li>10" Measured Closed</li>
+<li>.5" Wide Each Side</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lightgreen</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4456557477968</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">8.40</s:price>
+      <s:sku>611052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4457089433680</id>
+    <published>2020-02-07T14:41:14-05:00</published>
+    <updated>2020-02-07T14:41:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/lumos-crystal-necklace"/>
+    <title>Lumos Crystal Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/4858526cfc6c16d2d10e7f972015a71f.jpg?v=1580568098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Our Lumos Crystal Necklace is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball, this gorgeous necklace has the added bonus of being effortless to fasten!  Pair this necklace with the coordinating Aura Crystal Bracelet.\nSize: 19\" Long\nMaterials: Crystal Glass Beads\nPavé Magnet Ball Closure"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Our Lumos Crystal Necklace is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball, this gorgeous necklace has the added bonus of being effortless to fasten! Pair this necklace with the coordinating Aura Crystal Bracelet.<br data-mce-fragment="1"></span></p>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Our Lumos Crystal Necklace is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball, this gorgeous necklace has the added bonus of being effortless to fasten!  Pair this necklace with the coordinating Aura Crystal Bracelet.\nSize: 19\" Long\nMaterials: Crystal Glass Beads\nPavé Magnet Ball Closure"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Materials: Crystal Glass Beads</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our Lumos Crystal Necklace is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball, this gorgeous necklace has the added bonus of being effortless to fasten!  Pair this necklace with the coordinating Aura Crystal Bracelet.\nSize: 19\" Long\nMaterials: Crystal Glass Beads\nPavé Magnet Ball Closure"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Size: 19" Long</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our Lumos Crystal Necklace is made of twisted strands of multidimensional beads that add a luminous touch to your outfit. Finished with a pave magnetic ball, this gorgeous necklace has the added bonus of being effortless to fasten!  Pair this necklace with the coordinating Aura Crystal Bracelet.\nSize: 19\" Long\nMaterials: Crystal Glass Beads\nPavé Magnet Ball Closure"}' data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-mce-fragment="1">Pavé Magnet Ball Closure</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089433680</id>
+      <title>White</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>612731</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089433680</id>
+      <title>Aqua</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>612729</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089433680</id>
+      <title>Gray</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>612730</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089433680</id>
+      <title>Champagne</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>612733</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089433680</id>
+      <title>Navy</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>612728</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089433680</id>
+      <title>Blush</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>612732</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4457089695824</id>
+    <published>2020-02-07T14:41:12-05:00</published>
+    <updated>2020-02-07T14:41:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/multi-strand-crystal-ombre-necklace"/>
+    <title>Multi Strand Crystal Ombre Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/IMG_5272.jpg?v=1617130971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>18" Length End to End</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Magnetic Clasp</s:tag>
+    <s:tag>holiday25</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089695824</id>
+      <title>White</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>609349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089695824</id>
+      <title>Champagne</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>609350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4457089663056</id>
+    <published>2020-02-07T14:41:12-05:00</published>
+    <updated>2020-02-07T14:41:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/multi-strand-crystal-necklace"/>
+    <title>Multi Strand Crystal Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/570f0e9d198654144853f9481a9d4443.jpg?v=1580568114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Multi-Strand Magnetic Necklace</li>
+<li>16" Length</li>
+<li>5" Diameter </li>
+<li>1.5" Wide</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089663056</id>
+      <title>Gray</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>608332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089663056</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>608333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089663056</id>
+      <title>Navy Mirror</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>609644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089663056</id>
+      <title>Navy</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>606425</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089663056</id>
+      <title>Gray Multi</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>609648</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4457089761360</id>
+    <published>2020-02-07T14:41:11-05:00</published>
+    <updated>2020-02-07T14:41:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/multi-strand-short-crystal-necklace"/>
+    <title>Multi Strand Short Crystal Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/14da413b5cc100391e1b69c68c12bf56.jpg?v=1580568126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Magnetic Clasp</li>
+<li>19" Long Open</li>
+<li>Rhinestone Ball Magnetic Closure</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Crystal</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089761360</id>
+      <title>Multi</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>609646</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457089761360</id>
+      <title>Baby Blue</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>609647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4457090220112</id>
+    <published>2020-02-07T14:41:06-05:00</published>
+    <updated>2020-02-07T14:41:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/simply-crystal-long-detachable-necklace"/>
+    <title>Simply Crystal Long Detachable Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/d2746c23c3276f328e387b0ab4b01bad.jpg?v=1580568168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            6.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wear as a long necklace, short necklace, bracelet...our most versatile piece! Our Simply Crystal Convertible Long Necklace will be your new go-to, whether you're wearing it as a necklace or bracelet. \n\nDetachable Magnetic Crystal Necklace\nTwo Pave Magnetic Ball Clasps\n15\&quot; Length (Measured Closed)\n7\&quot; Length When Detached&quot;}" data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wear as a long necklace, short necklace, bracelet...our most versatile piece! Our Simply Crystal Convertible Long Necklace will be your new go-to, whether you're wearing it as a necklace or bracelet. \n\nDetachable Magnetic Crystal Necklace\nTwo Pave Magnetic Ball Clasps\n15\&quot; Length (Measured Closed)\n7\&quot; Length When Detached&quot;}" data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Wear as a long necklace, short necklace, bracelet...our most versatile piece! Our Simply Crystal Convertible Long Necklace will be your new go-to, whether you're wearing it as a necklace or bracelet.<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wear as a long necklace, short necklace, bracelet...our most versatile piece! Our Simply Crystal Convertible Long Necklace will be your new go-to, whether you're wearing it as a necklace or bracelet. \n\nDetachable Magnetic Crystal Necklace\nTwo Pave Magnetic Ball Clasps\n15\&quot; Length (Measured Closed)\n7\&quot; Length When Detached&quot;}" data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Detachable Magnetic Crystal Necklace</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wear as a long necklace, short necklace, bracelet...our most versatile piece! Our Simply Crystal Convertible Long Necklace will be your new go-to, whether you're wearing it as a necklace or bracelet. \n\nDetachable Magnetic Crystal Necklace\nTwo Pave Magnetic Ball Clasps\n15\&quot; Length (Measured Closed)\n7\&quot; Length When Detached&quot;}" data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Two Pave Magnetic Ball Clasps</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wear as a long necklace, short necklace, bracelet...our most versatile piece! Our Simply Crystal Convertible Long Necklace will be your new go-to, whether you're wearing it as a necklace or bracelet. \n\nDetachable Magnetic Crystal Necklace\nTwo Pave Magnetic Ball Clasps\n15\&quot; Length (Measured Closed)\n7\&quot; Length When Detached&quot;}" data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">15" Length (Measured Closed)</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wear as a long necklace, short necklace, bracelet...our most versatile piece! Our Simply Crystal Convertible Long Necklace will be your new go-to, whether you're wearing it as a necklace or bracelet. \n\nDetachable Magnetic Crystal Necklace\nTwo Pave Magnetic Ball Clasps\n15\&quot; Length (Measured Closed)\n7\&quot; Length When Detached&quot;}" data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">7" Length When Detached</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Magnetic Clasp</s:tag>
+    <s:tag>holiday25</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>lightgreen</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>memorialdaysale</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457090220112</id>
+      <title>Green</title>
+      <s:price currency="USD">6.30</s:price>
+      <s:sku>608256</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457090220112</id>
+      <title>Silver Blue</title>
+      <s:price currency="USD">6.30</s:price>
+      <s:sku>607018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457090220112</id>
+      <title>Bronze</title>
+      <s:price currency="USD">6.30</s:price>
+      <s:sku>606559</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457090220112</id>
+      <title>Purple</title>
+      <s:price currency="USD">6.30</s:price>
+      <s:sku>609720</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4457090187344</id>
+    <published>2020-02-07T14:41:06-05:00</published>
+    <updated>2020-02-07T14:41:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/short-crystal-pearl-nk"/>
+    <title>Short Crystal Pearl Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/a72c368a80f966ff745e44e9cf6a7a43.jpg?v=1580568162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"A Saachi staple, our Short Crystal Pearl Necklace is sure to become your new go-to piece for both day and night! Strands of sparkling crystal with added pearls come together with a pave magnetic ball closure that makes for an easy on and off. Pair with the Crosby Beaded Pearl Bracelet for a perfect match.\n\nSize: 19” long\nGlass Beads, Pearls"}'><span data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"A Saachi staple, our Short Crystal Pearl Necklace is sure to become your new go-to piece for both day and night! Strands of sparkling crystal with added pearls come together with a pave magnetic ball closure that makes for an easy on and off. Pair with the Crosby Beaded Pearl Bracelet for a perfect match.\n\nSize: 19” long\nGlass Beads, Pearls"}'>A Saachi staple, our Short Crystal Pearl Necklace is sure to become your new go-to piece for both day and night! Strands of sparkling crystal with added pearls come together with a pave magnetic ball closure that makes for an easy on and off. Pair with the Crosby Beaded Pearl Bracelet for a perfect match.<br></span></span>
+<ul>
+<li><span data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"A Saachi staple, our Short Crystal Pearl Necklace is sure to become your new go-to piece for both day and night! Strands of sparkling crystal with added pearls come together with a pave magnetic ball closure that makes for an easy on and off. Pair with the Crosby Beaded Pearl Bracelet for a perfect match.\n\nSize: 19” long\nGlass Beads, Pearls"}'>Materials : Glass Beads, Pearls</span></li>
+<li><span data-sheets-userformat='{"2":13185,"3":{"1":0},"10":2,"11":4,"12":0,"15":"Verdana","16":9}' data-sheets-value='{"1":2,"2":"A Saachi staple, our Short Crystal Pearl Necklace is sure to become your new go-to piece for both day and night! Strands of sparkling crystal with added pearls come together with a pave magnetic ball closure that makes for an easy on and off. Pair with the Crosby Beaded Pearl Bracelet for a perfect match.\n\nSize: 19” long\nGlass Beads, Pearls"}'>Size: 19” long</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Pave Magnetic Ball</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>gray</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_GlassBeads</s:tag>
+    <s:tag>Material_Pearls</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457090187344</id>
+      <title>Gray</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612464</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457090187344</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612798</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457090187344</id>
+      <title>Blush</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612467</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457090187344</id>
+      <title>Navy</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612465</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4457090187344</id>
+      <title>White</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612799</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

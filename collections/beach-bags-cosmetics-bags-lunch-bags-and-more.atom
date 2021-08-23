@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://saachiwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://saachiwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://saachiwholesale.com/collections/beach-bags-cosmetics-bags-lunch-bags-and-more.atom"/>
+  <title>Saachi Wholesale</title>
+  <updated>2021-06-02T11:04:43-04:00</updated>
+  <author>
+    <name>Saachi Wholesale</name>
+  </author>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755005989046</id>
+    <published>2021-06-02T11:04:43-04:00</published>
+    <updated>2021-06-02T11:04:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/daisies-cosmetic-bag"/>
+    <title>Daisies Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999358-1.jpg?v=1622544198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Materials : 100 % Cotton Canva svinyl Lining</li>
+<li>Size : Large: 7x11, Medium : 6X10, Small : 51/2X9</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755005989046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999358</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6752227229878</id>
+    <published>2021-06-02T11:04:43-04:00</published>
+    <updated>2021-06-02T11:04:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/striped-tote-bag"/>
+    <title>Striped Tote Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999425-1.jpg?v=1622462493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100 % Cotton Canvas with vinyl Lining</li>
+<li>Size : 20" Length X 13" Height X 7" Depth</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6752227229878</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>999425</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755021390006</id>
+    <published>2021-06-02T11:04:42-04:00</published>
+    <updated>2021-06-02T11:04:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/tile-lunch-bag"/>
+    <title>Tile Lunch Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999368-1.jpg?v=1622544615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Materials 100 % Cotton Canvas Bags with Vinyl Lining</li>
+<li>Size : 8" Length X 8" Height X 5" Depth</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755021390006</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>999368</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755016802486</id>
+    <published>2021-06-02T11:04:42-04:00</published>
+    <updated>2021-06-02T11:04:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/brushed-cosmetic-bag"/>
+    <title>Brushed Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999459-1.jpg?v=1622544479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Materials : 100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7x11,</li>
+<li>Medium : 6X10,</li>
+<li>Small : 51/2X9</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755016802486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999459</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755012509878</id>
+    <published>2021-06-02T11:04:42-04:00</published>
+    <updated>2021-06-02T11:04:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/retro-tote-bag"/>
+    <title>Retro Tote Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999389-1.jpg?v=1622544347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Materials :  100 % Cotton Canvas with vinyl Lining</li>
+<li>Size : 20" Length X 13" Height X 7" Depth</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755012509878</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>999389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755031842998</id>
+    <published>2021-06-02T11:04:41-04:00</published>
+    <updated>2021-06-02T11:04:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/daisies-cosmetic-bag-2"/>
+    <title>Daisies Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999360-1.jpg?v=1622544905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Materials : 100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7 x 11,</li>
+<li>Medium : 6 X 10,</li>
+<li>Small : 51/2 X 9</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755031842998</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755026567350</id>
+    <published>2021-06-02T11:04:41-04:00</published>
+    <updated>2021-06-02T11:04:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/daisies-cosmetic-bag-1"/>
+    <title>Daisies Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999359-1.jpg?v=1622544767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Materials : 100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7 x 11,</li>
+<li>Medium : 6 X 10,</li>
+<li>Small : 51/2 X 9</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755026567350</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999359</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755042656438</id>
+    <published>2021-06-02T11:04:40-04:00</published>
+    <updated>2021-06-02T11:04:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/brushed-cosmetic-bag-1"/>
+    <title>Brushed Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999461-1.jpg?v=1622545334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7" x 11",</li>
+<li>Medium : 6" X 10",</li>
+<li>Small : 51/2" X 9"</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755042656438</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999461</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755038363830</id>
+    <published>2021-06-02T11:04:40-04:00</published>
+    <updated>2021-06-02T11:04:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/retro-cosmetic-bag"/>
+    <title>Retro Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999393-1.jpg?v=1622545166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Materials :100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7" x 11",</li>
+<li>Medium : 6" X 10",</li>
+<li>Small : 51/2" X 9"</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755038363830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755035775158</id>
+    <published>2021-06-02T11:04:40-04:00</published>
+    <updated>2021-06-02T11:04:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/retro-lunch-bag"/>
+    <title>Retro Lunch Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999391-1.jpg?v=1622545062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Materials : 100 % Cotton Canvas Bags with Vinyl Lining</li>
+<li>Size : 8" Length X 8" Height X 5" Depth</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755035775158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>999391</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755052257462</id>
+    <published>2021-06-02T11:04:39-04:00</published>
+    <updated>2021-06-02T11:04:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/regal-bucket-bag"/>
+    <title>Regal Bucket Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999330-1.jpg?v=1622545721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100% cotton Canvas Bags with Vinyl Lining</li>
+<li>Size : 20" Length x 14" Height x 10" Depth</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755052257462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>999330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755047145654</id>
+    <published>2021-06-02T11:04:39-04:00</published>
+    <updated>2021-06-02T11:04:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/brushed-lunch-bag"/>
+    <title>Brushed Lunch Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999458-1.jpg?v=1622545500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100 % Cotton Canvas Bags with Vinyl Lining</li>
+<li>Size : 8" Length X 8" Height X 5" Depth</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755047145654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>999458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755060744374</id>
+    <published>2021-06-02T11:04:38-04:00</published>
+    <updated>2021-06-02T11:04:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/ikat-cosmetic-bag"/>
+    <title>Ikat Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999383-1.jpg?v=1622546102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7 x 11,</li>
+<li>Medium : 6 X 10,</li>
+<li>Small : 51/2 X 9</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755060744374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999383</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755057369270</id>
+    <published>2021-06-02T11:04:38-04:00</published>
+    <updated>2021-06-02T11:04:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/retro-cosmetic-bag-1"/>
+    <title>Retro Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999394-2.jpg?v=1622545973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7 x 11,</li>
+<li>Medium : 6 X 10,</li>
+<li>Small : 51/2 X 9</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755057369270</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755054452918</id>
+    <published>2021-06-02T11:04:38-04:00</published>
+    <updated>2021-06-02T11:04:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/daisies-lunch-bag"/>
+    <title>Daisies Lunch Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999356-1.jpg?v=1622545849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 8" Length X 8" Height X 5" Depth</li>
+<li>Material : 100 % Cotton Canvas Bags with Vinyl Lining</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755054452918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>999356</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755082404022</id>
+    <published>2021-06-02T11:04:37-04:00</published>
+    <updated>2021-06-02T11:04:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/regal-lunch-bag"/>
+    <title>Regal Lunch Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999328-1.jpg?v=1622547152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Materials : 100 % Cotton Canvas Bags with Vinyl Lining</li>
+<li>Size : 8" Length X 8" Height X 5" Depth</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755082404022</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>999328</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755063038134</id>
+    <published>2021-06-02T11:04:37-04:00</published>
+    <updated>2021-06-02T11:04:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/ikat-cosmetic-bag-1"/>
+    <title>Ikat Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999385-1.jpg?v=1622546217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7 x 11,</li>
+<li>Medium : 6 X 10,</li>
+<li>Small : 51/2 X 9</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755063038134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755223634102</id>
+    <published>2021-06-02T11:04:36-04:00</published>
+    <updated>2021-06-02T11:04:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/brushed-bucket-bag"/>
+    <title>Brushed Bucket Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999462-1.jpg?v=1622551221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size : 20" Length x 14" Height x 10" Depth</li>
+<li>Material : 100% cotton Canvas Bags with Vinyl Lining</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755223634102</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>999462</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755087843510</id>
+    <published>2021-06-02T11:04:36-04:00</published>
+    <updated>2021-06-02T11:04:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/striped-cosmetic-bag"/>
+    <title>Striped Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999435-1.jpg?v=1622547386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7 x 11,</li>
+<li>Medium : 6 X 10,</li>
+<li>Small : 51/2 X 9</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755087843510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999435</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755085123766</id>
+    <published>2021-06-02T11:04:36-04:00</published>
+    <updated>2021-06-02T11:04:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/starfish-tote-bag"/>
+    <title>Starfish Tote Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999491-1.jpg?v=1622547272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material :100 % Cotton Canvas with vinyl Lining</li>
+<li>Size : 20" Length X 13" Height X 7" Depth</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755085123766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>999491</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755231236278</id>
+    <published>2021-06-02T11:04:35-04:00</published>
+    <updated>2021-06-02T11:04:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/daisies-weekender-bag"/>
+    <title>Daisies Weekender Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999347-1.jpg?v=1622551441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100 % Cotton Canvas with vinyl Lining</li>
+<li>Size : 21" Length X 16" Height X 9" Depth</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755231236278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>999347</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755227304118</id>
+    <published>2021-06-02T11:04:35-04:00</published>
+    <updated>2021-06-02T11:04:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/ikat-cosmetic-bag-2"/>
+    <title>Ikat Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999315-1.jpg?v=1622551335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material :100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7 x 11,</li>
+<li>Medium : 6 X 10,</li>
+<li>Small : 51/2 X 9</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755227304118</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999315</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755239067830</id>
+    <published>2021-06-02T11:04:34-04:00</published>
+    <updated>2021-06-02T11:04:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/stylish-circle-pattern-weekend"/>
+    <title>Stylish Circle Pattern Weekend</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999387-1.jpg?v=1622551672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100 % Cotton Canvas with vinyl Lining</li>
+<li>Size : 21" Length X 16" Height X 9" Depth</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755239067830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>999387</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755234873526</id>
+    <published>2021-06-02T11:04:34-04:00</published>
+    <updated>2021-06-02T11:04:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/daisies-cosmetic-bag-3"/>
+    <title>Daisies Cosmetic Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999357-1.jpg?v=1622551550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material :  100 % Cotton Canvas vinyl Lining</li>
+<li>Large: 7 x 11,</li>
+<li>Medium : 6 X 10,</li>
+<li>Small : 51/2 X 9</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755234873526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>999357</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6755247194294</id>
+    <published>2021-06-02T11:04:33-04:00</published>
+    <updated>2021-06-02T11:04:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/green-and-white-striped-bag"/>
+    <title>Green And White Striped bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/999421-1.jpg?v=1622552012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Material : 100 % Cotton Canvas with vinyl Lining</li>
+<li>Size : 21" Length X 16" Height X 9" Depth</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beachbags</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6755247194294</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>999421</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

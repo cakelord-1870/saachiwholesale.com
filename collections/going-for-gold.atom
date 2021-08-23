@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://saachiwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://saachiwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://saachiwholesale.com/collections/going-for-gold.atom"/>
+  <title>Saachi Wholesale</title>
+  <updated>2021-05-12T15:20:54-04:00</updated>
+  <author>
+    <name>Saachi Wholesale</name>
+  </author>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711443914934</id>
+    <published>2021-05-12T15:20:54-04:00</published>
+    <updated>2021-05-12T15:20:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/hera-cuff-bracelet"/>
+    <title>Hera Cuff Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/7fda55dfa874a369bfa016ac34f05e99.jpg?v=1620847201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This gorgeous contemporary Hera Cuff Bracelet features a lovely basketweave design with a satin finish look. Pair with your summer linens or, add some chic flair to a casual ensemble. <br>
+<ul>
+<li>Material: 100% Brass, Matt Gold</li>
+<li>(Lead-Free, Cadmium Free, Nickel Free)</li>
+<li>Size: 7.25"X 1.75", 1" Opening</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711443914934</id>
+      <title>Gold</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>612974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711443620022</id>
+    <published>2021-05-12T15:20:54-04:00</published>
+    <updated>2021-05-12T15:20:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/doris-hammered-earring"/>
+    <title>Doris Hammered Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/49efb98639c2901dd6ff510a31d911df.jpg?v=1620847196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These Doris Hammered Earring are the perfect way to accessorize your sweet look! This chic, crescent metal shape design met by a larger, hammered mirrored design that dangles below boasts an effortlessly cool and stylish look. Tuck your hair back to keep them in focus. <br>
+<ul>
+<li>Material: 100% Brass (Lead-Free, Cadmium Free, Nickel Free), Matt Gold</li>
+<li>Size: 2.5"x 1.5" (at the widest)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711443620022</id>
+      <title>Gold</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>612975</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711443357878</id>
+    <published>2021-05-12T15:20:54-04:00</published>
+    <updated>2021-05-12T15:20:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/selene-hammered-earring"/>
+    <title>Selene Hammered Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/662b5721989f24d8660a0e61e5fc92f5.jpg?v=1620847192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Statement-making that won't weigh you down. These chic drop satin finish earrings are full of geometric panache with three dangling leaf charms suspended from a half-circle lightly hammered post creating a fringe-like effect! Pair with an off-the-shoulder top for a perfect going out 'fit!<br>
+<ul>
+<li>Material: 100% Brass, Matt Gold</li>
+<li>(Lead-Free, Cadmium Free, Nickel Free)</li>
+<li>Size: 2.25"X 1"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711443357878</id>
+      <title>Gold</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>612976</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711443161270</id>
+    <published>2021-05-12T15:20:53-04:00</published>
+    <updated>2021-05-12T15:20:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/thalia-earring"/>
+    <title>Thalia Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/0a2fda3d17debd76c5f38df3e51be036.jpg?v=1620847188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple but elegant, these diamond drop brass Thalia earrings feature a timeless, floral-inspired cut-out detail. Perfect for everyday wear!<br></p>
+<ul>
+<li>Material: 100% brass (Lead-Free, Cadmium Free, Nickel Free),</li>
+<li>Matte Gold</li>
+<li>Size: 2" X 1"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711443161270</id>
+      <title>Gold</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711442931894</id>
+    <published>2021-05-12T15:20:53-04:00</published>
+    <updated>2021-05-12T15:20:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/phoebe-earring"/>
+    <title>Phoebe Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/d8226abac9d1b0eb3f4a314fd59caaa2.jpg?v=1620847184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lightweight and Minimal, these make a perfect statement with a simple outfit. This art deco-inspired Phoebe Earring pair with a stylized geometry, straight lines, and triangles is a breezy number in a geometric openwork design. <br>
+<ul>
+<li>Material: 100% Brass, Matt Gold</li>
+<li>(Lead-Free, Cadmium Free, Nickel Free)</li>
+<li>Size: 1.75"X 0.75"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711442931894</id>
+      <title>Gold</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711442669750</id>
+    <published>2021-05-12T15:20:53-04:00</published>
+    <updated>2021-05-12T15:20:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/irene-earring"/>
+    <title>Irene Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/601e5b22d91fa530d7993b5484d441d5.jpg?v=1620847180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This pair of modern statement Irene earring pieces of leaf silhouette adds a touch of nature-inspired beauty to your look. The lightweight feature of earrings makes it effortless everyday wear and a satin finish that adds a stylish glow to any outfit you wear.</p>
+<ul>
+<li>Material: 100% Brass, Matt Gold</li>
+<li>(Lead-Free, Cadmium Free, Nickel Free)</li>
+<li>Size: 2.25" X 0.5"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711442669750</id>
+      <title>Gold</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>612979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711442440374</id>
+    <published>2021-05-12T15:20:53-04:00</published>
+    <updated>2021-05-12T15:20:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/chloe-hammered-earring"/>
+    <title>Chloe Hammered Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/e1ae08c47dec298ec88af06371c8234e.jpg?v=1620847176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Looking for a statement piece that looks bold and modern yet handcrafted? Look no further than our Chole Hammered earrings. A flirty length brings a fresh contemporary aesthetic to these dangle earrings. <br>
+<ul>
+<li>Material: 100% Brass, Matt Gold</li>
+<li>(Lead-Free, Cadmium Free, Nickel Free) Size: 4"x 1.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711442440374</id>
+      <title>Gold</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>612980</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711442243766</id>
+    <published>2021-05-12T15:20:52-04:00</published>
+    <updated>2021-05-12T15:20:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/iris-hammered-earring"/>
+    <title>Iris Hammered Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/cf950b7c4c0d80933d5e2681f4469808.jpg?v=1620847172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our rainbow-shaped Iris Hammered Earring dangle earring features a unique silhouette that adds an effortlessly cool statement to any outfit. These must-have satin finish earrings with a hint of hammered texture add the right amount of bling to your everyday look.</p>
+<ul>
+<li>Material: 100% Brass, Matt Gold</li>
+<li>(Lead-Free, Cadmium Free, Nickel Free)</li>
+<li>Size:2.5"x 0.5"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711442243766</id>
+      <title>Gold</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>612981</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711441785014</id>
+    <published>2021-05-12T15:20:52-04:00</published>
+    <updated>2021-05-12T15:20:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/delia-earring"/>
+    <title>Delia Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/68fed3f6d5db409f65345e13b7f68e3a.jpg?v=1620847168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lightweight and Minimal, these make a perfect statement with a simple outfit. This art deco-inspired Delia teardrop pair is a breezy number in a geometric openwork design. <br>
+<ul>
+<li>Material: 100% Brass, Matt Gold</li>
+<li>(Lead-Free, Cadmium Free, Nickel Free)</li>
+<li>Size: 2" x 1"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711441785014</id>
+      <title>Gold</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612982</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711441326262</id>
+    <published>2021-05-12T15:20:52-04:00</published>
+    <updated>2021-05-12T15:20:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/echo-cuff-bracelet"/>
+    <title>Echo Cuff Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/82c24b04e4f8d2737a157c3bcf7fd16f.jpg?v=1620847163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elegant and stylish, this Echo Cuff Bracelet will shine at any event. The satin finish gives understated elegance to an intricate cut-out bubble design. With the perfect balance of playfulness and sophistication, this piece works well with any ensemble. <br>
+<ul>
+<li>Material: Scratched gold,Copper Size: 6.5" X 0.75", 1" wide Opening</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711441326262</id>
+      <title>Gold</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>612983</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6711441129654</id>
+    <published>2021-05-12T15:20:52-04:00</published>
+    <updated>2021-05-12T15:20:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/two-tone-cable-cuff-bracelet"/>
+    <title>Two Tone Cable Cuff Bracelet</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/590c25fc0588d9bf3e7c81ba69418901.jpg?v=1620847158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intricate yet simple, this stunning piece is a unique addition to your collection. This Two-Tone Cable Cuff Bracelet features unusual coil springs paired with a high gloss rhodium finish metal to provide a dynamic texture effect. Perfect for those who love their everyday bracelets with a touch of flair.<br></p>
+<ul>
+<li>Material: Rhodium+ plated gold, Copper</li>
+<li>Size: 7" X 1", 1" Opening</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>newgold</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Tag_609c2a34abdb9</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6711441129654</id>
+      <title>Gold</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>612985</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6583117545654</id>
+    <published>2021-03-16T14:30:17-04:00</published>
+    <updated>2021-03-16T14:30:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/starletta-layered-necklace"/>
+    <title>Starletta Layered Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/IMG_6451-Edit_2.jpg?v=1619015092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"The stars have aligned to create our Starletta Layered Necklace! With a vintage inspired pendant, and two rows of little stars, this dreamy gold necklace creates a layered look in one easy-to-wear piece. \nMaterials: Iron, Zinc\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"The stars have aligned to create our Starletta Layered Necklace! With a vintage inspired pendant, and two rows of little stars, this dreamy gold necklace creates a layered look in one easy-to-wear piece. \nMaterials: Iron, Zinc\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">The stars have aligned to create our Starletta Layered Necklace! With a vintage inspired pendant, and two rows of little stars, this dreamy gold necklace creates a layered look in one easy-to-wear piece. <br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"The stars have aligned to create our Starletta Layered Necklace! With a vintage inspired pendant, and two rows of little stars, this dreamy gold necklace creates a layered look in one easy-to-wear piece. \nMaterials: Iron, Zinc\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Iron, Zinc</span></li>
+<li><span data-sheets-value='{"1":2,"2":"The stars have aligned to create our Starletta Layered Necklace! With a vintage inspired pendant, and two rows of little stars, this dreamy gold necklace creates a layered look in one easy-to-wear piece. \nMaterials: Iron, Zinc\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Lobster Clasp</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>new316</s:tag>
+    <s:tag>sd_preorder</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>Tag_6050eba85b0d5</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6583117545654</id>
+      <title>Gold</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>612951</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6583115677878</id>
+    <published>2021-03-16T14:30:15-04:00</published>
+    <updated>2021-03-16T14:30:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/maisie-pearl-earring"/>
+    <title>Maisie Pearl Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/IMG_6767.jpg?v=1619014345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Modern meets elegance with our Maisie Pearl Earring! This stunning statement earring features an oversized organically shaped design with pearls intertwined throughout.\nMaterials: Freshwater Pearl, Zinc\nSise:\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Modern meets elegance with our Maisie Pearl Earring! This stunning statement earring features an oversized organically shaped design with pearls intertwined throughout.\nMaterials: Freshwater Pearl, Zinc\nSise:\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Modern meets elegance with our Maisie Pearl Earring! This stunning statement earring features an oversized organically shaped design with pearls intertwined throughout.<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Modern meets elegance with our Maisie Pearl Earring! This stunning statement earring features an oversized organically shaped design with pearls intertwined throughout.\nMaterials: Freshwater Pearl, Zinc\nSise:\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Freshwater Pearl, Zinc</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Modern meets elegance with our Maisie Pearl Earring! This stunning statement earring features an oversized organically shaped design with pearls intertwined throughout.\nMaterials: Freshwater Pearl, Zinc\nSise:\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Post Backing</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>new316</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>sd_partial</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>Tag_6050eba85b0d5</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6583115677878</id>
+      <title>Gold</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>612950</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6583115481270</id>
+    <published>2021-03-16T14:30:15-04:00</published>
+    <updated>2021-03-16T14:30:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/sylvie-chain-necklace"/>
+    <title>Sylvie Chain Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/c8ad7d672f1b40af2d267634bc172d0b.jpg?v=1615915959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Chain necklaces are a must-have in any jewelry collection. With a mix of gold and silver metals, our Sylvia Half &amp; Half Necklace brings a trendy yet polished touch to any look. From a crewneck sweatshirt to a silk blouse, this chain link necklace simply pairs well with anything. \nMaterials: Iron\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Chain necklaces are a must-have in any jewelry collection. With a mix of gold and silver metals, our Sylvia Half &amp; Half Necklace brings a trendy yet polished touch to any look. From a crewneck sweatshirt to a silk blouse, this chain link necklace simply pairs well with anything. \nMaterials: Iron\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Chain necklaces are a must-have in any jewelry collection. With a mix of gold and silver metals, our Sylvia Half &amp; Half Necklace brings a trendy yet polished touch to any look. From a crewneck sweatshirt to a silk blouse, this chain link necklace simply pairs well with anything. <br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Chain necklaces are a must-have in any jewelry collection. With a mix of gold and silver metals, our Sylvia Half &amp; Half Necklace brings a trendy yet polished touch to any look. From a crewneck sweatshirt to a silk blouse, this chain link necklace simply pairs well with anything. \nMaterials: Iron\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Iron</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Chain necklaces are a must-have in any jewelry collection. With a mix of gold and silver metals, our Sylvia Half &amp; Half Necklace brings a trendy yet polished touch to any look. From a crewneck sweatshirt to a silk blouse, this chain link necklace simply pairs well with anything. \nMaterials: Iron\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Lobster Clasp</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>new316</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>sd_partial</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>Tag_6050eba85b0d5</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6583115481270</id>
+      <title>Gold</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>612948</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6583115940022</id>
+    <published>2021-03-16T13:51:09-04:00</published>
+    <updated>2021-03-16T13:51:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/augusta-charm-necklace"/>
+    <title>Augusta Charm Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/IMG_6660.jpg?v=1619111689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"This vintage-inspired necklace features various charms dangling from a paper clip chain, rendered in a matte gold finish. Add our Augusta Charm Necklace to jeans and a tee for an instantly elevated look. You can wear it alone or pair it with the coordinating Augusta Charm Bracelet.\nMaterials: Iron, Zinc\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"This vintage-inspired necklace features various charms dangling from a paper clip chain, rendered in a matte gold finish. Add our Augusta Charm Necklace to jeans and a tee for an instantly elevated look. You can wear it alone or pair it with the coordinating Augusta Charm Bracelet.\nMaterials: Iron, Zinc\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">This vintage-inspired necklace features various charms dangling from a paper clip chain, rendered in a matte gold finish. Add our Augusta Charm Necklace to jeans and a tee for an instantly elevated look. You can wear it alone or pair it with the coordinating Augusta Charm Bracelet.<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"This vintage-inspired necklace features various charms dangling from a paper clip chain, rendered in a matte gold finish. Add our Augusta Charm Necklace to jeans and a tee for an instantly elevated look. You can wear it alone or pair it with the coordinating Augusta Charm Bracelet.\nMaterials: Iron, Zinc\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Iron, Zinc</span></li>
+<li><span data-sheets-value='{"1":2,"2":"This vintage-inspired necklace features various charms dangling from a paper clip chain, rendered in a matte gold finish. Add our Augusta Charm Necklace to jeans and a tee for an instantly elevated look. You can wear it alone or pair it with the coordinating Augusta Charm Bracelet.\nMaterials: Iron, Zinc\nSise:\nLobster Clasp"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Lobster Clasp</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>new316</s:tag>
+    <s:tag>newleather422</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>sd_partial</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>Tag_6050eba85b0d5</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6583115940022</id>
+      <title>Gold</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>612953</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4473227673680</id>
+    <published>2021-01-15T10:47:18-05:00</published>
+    <updated>2021-01-15T10:47:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/kaleidoscope-er"/>
+    <title>Kaleidoscope Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/6125612.jpg?v=1611675359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Think of all the colors of the rainbow when you put on our Kaleidoscope Earrings. These gorgeous crystals of every color embedded in golden brass hoops will put you in the spotlight.\nMaterials: Brass, Zircon\nSize: 1.5\" diameter\nHinged Hoop\nImported\n                             \n"}' data-mce-fragment="1"><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Think of all the colors of the rainbow when you put on our Kaleidoscope Earrings. These gorgeous crystals of every color embedded in golden brass hoops will put you in the spotlight.\nMaterials: Brass, Zircon\nSize: 1.5\" diameter\nHinged Hoop\nImported\n                             \n"}' data-mce-fragment="1">Think of all the colors of the rainbow when you put on our Kaleidoscope Earrings. These gorgeous crystals of every color embedded in golden brass hoops will put you in the spotlight.<br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Think of all the colors of the rainbow when you put on our Kaleidoscope Earrings. These gorgeous crystals of every color embedded in golden brass hoops will put you in the spotlight.\nMaterials: Brass, Zircon\nSize: 1.5\" diameter\nHinged Hoop\nImported\n                             \n"}' data-mce-fragment="1">Materials: Brass, Zircon</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Think of all the colors of the rainbow when you put on our Kaleidoscope Earrings. These gorgeous crystals of every color embedded in golden brass hoops will put you in the spotlight.\nMaterials: Brass, Zircon\nSize: 1.5\" diameter\nHinged Hoop\nImported\n                             \n"}' data-mce-fragment="1">Size: 1.5" diameter</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Think of all the colors of the rainbow when you put on our Kaleidoscope Earrings. These gorgeous crystals of every color embedded in golden brass hoops will put you in the spotlight.\nMaterials: Brass, Zircon\nSize: 1.5\" diameter\nHinged Hoop\nImported\n                             \n"}' data-mce-fragment="1">Hinged Hoop</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Think of all the colors of the rainbow when you put on our Kaleidoscope Earrings. These gorgeous crystals of every color embedded in golden brass hoops will put you in the spotlight.\nMaterials: Brass, Zircon\nSize: 1.5\" diameter\nHinged Hoop\nImported\n                             \n"}' data-mce-fragment="1">Imported</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Hinged Hoop</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>goldenrod</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Brass</s:tag>
+    <s:tag>Material_Zircon</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>presale</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>Tag_5e4ebec735401</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4473227673680</id>
+      <title>Multi</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>612561</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6183736311990</id>
+    <published>2021-01-06T15:37:01-05:00</published>
+    <updated>2021-01-06T15:37:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/parker-layered-necklace"/>
+    <title>Parker Layered Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/RS48561_IMG_1873.jpg?v=1612977653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"We absolutely adore a modern chain! Our Parker Layered Necklace features four gold link chains stacked together for a trendy look. Pair with your favorite gold accessories for an elegant ensemble, or dress up classic jeans and a tee.\n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--16”, Longest Chain--26”\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"We absolutely adore a modern chain! Our Parker Layered Necklace features four gold link chains stacked together for a trendy look. Pair with your favorite gold accessories for an elegant ensemble, or dress up classic jeans and a tee.\n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--16”, Longest Chain--26”\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">We absolutely adore a modern chain! Our Parker Layered Necklace features four gold link chains stacked together for a trendy look. Pair with your favorite gold accessories for an elegant ensemble, or dress up classic jeans and a tee.<br data-mce-fragment="1"><br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"We absolutely adore a modern chain! Our Parker Layered Necklace features four gold link chains stacked together for a trendy look. Pair with your favorite gold accessories for an elegant ensemble, or dress up classic jeans and a tee.\n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--16”, Longest Chain--26”\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Iron Chain, Zinc Alloy</span></li>
+<li><span data-sheets-value='{"1":2,"2":"We absolutely adore a modern chain! Our Parker Layered Necklace features four gold link chains stacked together for a trendy look. Pair with your favorite gold accessories for an elegant ensemble, or dress up classic jeans and a tee.\n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--16”, Longest Chain--26”\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: Shortest Chain--16”, Longest Chain--26”</span></li>
+<li><span data-sheets-value='{"1":2,"2":"We absolutely adore a modern chain! Our Parker Layered Necklace features four gold link chains stacked together for a trendy look. Pair with your favorite gold accessories for an elegant ensemble, or dress up classic jeans and a tee.\n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--16”, Longest Chain--26”\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Lobster Clasp</span></li>
+<li><span data-sheets-value='{"1":2,"2":"We absolutely adore a modern chain! Our Parker Layered Necklace features four gold link chains stacked together for a trendy look. Pair with your favorite gold accessories for an elegant ensemble, or dress up classic jeans and a tee.\n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--16”, Longest Chain--26”\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Imported</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gold</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6183736311990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>612898</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/6087375290550</id>
+    <published>2020-11-17T13:05:50-05:00</published>
+    <updated>2020-11-17T13:05:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/halfpenny-layered-necklace"/>
+    <title>Halfpenny Layered Necklace</title>
+    <s:type></s:type>
+    <s:vendor>Saachi Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/IMG_1401.jpg?v=1611693302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachi Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Stack up your accessories with our Halfpenny Layered Necklace! This piece features three golden chains with rustic coin pendants. With an adjustable chain, this trendy necklace can be everyone’s treasure.\n\nMaterials: Iron, Zinc Alloy\nSize: Shortest Chain--11\", Longest Chain--17.5\"\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Stack up your accessories with our Halfpenny Layered Necklace! This piece features three golden chains with rustic coin pendants. With an adjustable chain, this trendy necklace can be everyone’s treasure.\n\nMaterials: Iron, Zinc Alloy\nSize: Shortest Chain--11\", Longest Chain--17.5\"\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Stack up your accessories with our Halfpenny Layered Necklace! This piece features three golden chains with rustic coin pendants. With an adjustable chain, this trendy necklace can be everyone’s treasure.<br data-mce-fragment="1"><br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Stack up your accessories with our Halfpenny Layered Necklace! This piece features three golden chains with rustic coin pendants. With an adjustable chain, this trendy necklace can be everyone’s treasure.\n\nMaterials: Iron, Zinc Alloy\nSize: Shortest Chain--11\", Longest Chain--17.5\"\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Materials: Iron, Zinc Alloy</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Stack up your accessories with our Halfpenny Layered Necklace! This piece features three golden chains with rustic coin pendants. With an adjustable chain, this trendy necklace can be everyone’s treasure.\n\nMaterials: Iron, Zinc Alloy\nSize: Shortest Chain--11\", Longest Chain--17.5\"\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: Shortest Chain--11", Longest Chain--17.5"</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Stack up your accessories with our Halfpenny Layered Necklace! This piece features three golden chains with rustic coin pendants. With an adjustable chain, this trendy necklace can be everyone’s treasure.\n\nMaterials: Iron, Zinc Alloy\nSize: Shortest Chain--11\", Longest Chain--17.5\"\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Lobster Clasp</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Stack up your accessories with our Halfpenny Layered Necklace! This piece features three golden chains with rustic coin pendants. With an adjustable chain, this trendy necklace can be everyone’s treasure.\n\nMaterials: Iron, Zinc Alloy\nSize: Shortest Chain--11\", Longest Chain--17.5\"\nLobster Clasp\nImported"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Imported</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gold</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/6087375290550</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612894</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/5985112555702</id>
+    <published>2020-10-27T14:16:18-04:00</published>
+    <updated>2020-10-27T14:16:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/golden-sun-earring"/>
+    <title>Golden Sun Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/IMG_1529.jpg?v=1611691084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<div>
+<span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add a little shine to your outfit with our Golden Sun Hoop Earring. A little update to your everyday hoop earrings, this style features a sun-inspired design. \n\nMaterial: Gold Plated Brass\nSize: 1.5\" Diameter\nPost Backing"}'><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add a little shine to your outfit with our Golden Sun Hoop Earring. A little update to your everyday hoop earrings, this style features a sun-inspired design. \n\nMaterial: Gold Plated Brass\nSize: 1.5\" Diameter\nPost Backing"}'>Add a little shine to your outfit with our Golden Sun Hoop Earring. A little update to your everyday hoop earrings, this style features a sun-inspired design. <br><br></span></span>
+<ul>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add a little shine to your outfit with our Golden Sun Hoop Earring. A little update to your everyday hoop earrings, this style features a sun-inspired design. \n\nMaterial: Gold Plated Brass\nSize: 1.5\" Diameter\nPost Backing"}'>Material: Gold Plated Brass</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add a little shine to your outfit with our Golden Sun Hoop Earring. A little update to your everyday hoop earrings, this style features a sun-inspired design. \n\nMaterial: Gold Plated Brass\nSize: 1.5\" Diameter\nPost Backing"}'>Size: 1.5" Diameter</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add a little shine to your outfit with our Golden Sun Hoop Earring. A little update to your everyday hoop earrings, this style features a sun-inspired design. \n\nMaterial: Gold Plated Brass\nSize: 1.5\" Diameter\nPost Backing"}'>Post Backing</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fall2020</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/5985112555702</id>
+      <title>Gold</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>617900</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4798061969488</id>
+    <published>2020-09-16T10:01:37-04:00</published>
+    <updated>2020-09-16T10:01:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/re-0822gp-g04kgd"/>
+    <title>Linked-Up Convertible Necklace Mask Holder</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>Saachistyle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/a9a75a2c4497b355d456f352cc8e6e0a.jpg?v=1600264900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachistyle<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            7.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>This mask holder camouflages as a trendy necklace while providing a practical solution to forgetting your face mask or not having a place to put it when not in use.  With two included rubber holders, you can also wear on your favorite pair of reading glasses or sunglasses to keep your treasured items close to your heart.</div>
+<ul>
+<li>Materials: 100% Iron</li>
+<li>Closure: Dual Lobster Chain Clasps</li>
+<li>Can Be Worn as Necklace, Eyeglass Holder or Mask Holder</li>
+<li>Comes With Two Rubber Eyeglass Holder</li>
+<li><a href="https://saachistyle.com/collections/face-masks"><strong>Shop Coordinating Face Masks</strong></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_Lobster Claw</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Iron</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>sep15</s:tag>
+    <s:tag>Tag_5f60d2c574513</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798061969488</id>
+      <title>Gold</title>
+      <s:price currency="USD">7.20</s:price>
+      <s:sku>612866</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4798061903952</id>
+    <published>2020-09-16T10:01:33-04:00</published>
+    <updated>2020-09-16T10:01:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/re-0822gp-g15-wg"/>
+    <title>Gold Convertible Eyeglass and Mask Chain</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Saachistyle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/5ce0546efb2abb0c4fbb97d25decf43f.jpg?v=1600264896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Saachistyle<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            4.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>This mask holder camouflages as a trendy necklace while providing a practical solution to forgetting your face mask or not having a place to put it when not in use.  With two included rubber holders, you can also wear on your favorite pair of reading glasses or sunglasses to keep your treasured items close to your heart.</div>
+<ul>
+<li>Materials: 100% Iron</li>
+<li>Closure: Dual Lobster Chain Clasps</li>
+<li>Can Be Worn as Necklace, Eyeglass Holder or Mask Holder</li>
+<li>Comes With Two Rubber Eyeglass Holder</li>
+<li>
+<a href="https://saachistyle.com/collections/face-masks" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;"><strong>Shop Coordinating Face Masks</strong></a><br>
+</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body_</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Material_Iron</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>sep15</s:tag>
+    <s:tag>Tag_5f60d2c574513</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4798061903952</id>
+      <title>Gold</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>612867</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4647145111632</id>
+    <published>2020-07-01T11:45:21-04:00</published>
+    <updated>2020-07-01T11:45:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/caesar-drop-er"/>
+    <title>Caesar Drop Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/caesardropearring_gold_612551_3.jpg?v=1591363777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Our Caesar Drop Earring is inspired by an ancient love that lasts for centuries. Featuring two golden coins, this drop earring is the perfect length for day or for night. \n\nMaterial: alloy\n2.5\" x 0.75\"\nPost Backing"}'><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Our Caesar Drop Earring is inspired by an ancient love that lasts for centuries. Featuring two golden coins, this drop earring is the perfect length for day or for night. \n\nMaterial: alloy\n2.5\" x 0.75\"\nPost Backing"}'>Our Caesar Drop Earring is inspired by an ancient love that lasts for centuries. Featuring two golden coins, this drop earring is the perfect length for day or for night.<br></span></span>
+<ul>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Our Caesar Drop Earring is inspired by an ancient love that lasts for centuries. Featuring two golden coins, this drop earring is the perfect length for day or for night. \n\nMaterial: alloy\n2.5\" x 0.75\"\nPost Backing"}'>Material: Alloy</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Our Caesar Drop Earring is inspired by an ancient love that lasts for centuries. Featuring two golden coins, this drop earring is the perfect length for day or for night. \n\nMaterial: alloy\n2.5\" x 0.75\"\nPost Backing"}'>Size : 2.5" x 0.75"</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Our Caesar Drop Earring is inspired by an ancient love that lasts for centuries. Featuring two golden coins, this drop earring is the perfect length for day or for night. \n\nMaterial: alloy\n2.5\" x 0.75\"\nPost Backing"}'>Post Backing</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>03June</s:tag>
+    <s:tag>Body_Post Back</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>jun4</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>Tag_5ed94d3bc8421</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4647145111632</id>
+      <title>Gold</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>612551</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4646120521808</id>
+    <published>2020-06-04T14:04:48-04:00</published>
+    <updated>2020-06-04T14:04:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/aelina-necklace"/>
+    <title>Aelina Layered Necklace</title>
+    <s:type>Necklace</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/IMG_1466-Edit.jpg?v=1611693703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Necklace<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div><meta charset="utf-8"></div>
+</div>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<div>
+<span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add the finishing touch with this gorgeous beach-inspired layered necklace featuring four strands of mixed chains with beaded details, natural stone and a sand dollar pendant. Dainty and delicate, our Aelina Necklace is perfect for every day. \n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--15”, Longest Chain--26”\nLobster Clasp\nImported"}'><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add the finishing touch with this gorgeous beach-inspired layered necklace featuring four strands of mixed chains with beaded details, natural stone and a sand dollar pendant. Dainty and delicate, our Aelina Necklace is perfect for every day. \n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--15”, Longest Chain--26”\nLobster Clasp\nImported"}'>Add the finishing touch with this gorgeous beach-inspired layered necklace featuring four strands of mixed chains with beaded details, natural stone and a sand dollar pendant. Dainty and delicate, our Aelina Necklace is perfect for every day. <br><br></span></span>
+<ul>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add the finishing touch with this gorgeous beach-inspired layered necklace featuring four strands of mixed chains with beaded details, natural stone and a sand dollar pendant. Dainty and delicate, our Aelina Necklace is perfect for every day. \n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--15”, Longest Chain--26”\nLobster Clasp\nImported"}'>Materials: Iron Chain, Zinc Alloy</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add the finishing touch with this gorgeous beach-inspired layered necklace featuring four strands of mixed chains with beaded details, natural stone and a sand dollar pendant. Dainty and delicate, our Aelina Necklace is perfect for every day. \n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--15”, Longest Chain--26”\nLobster Clasp\nImported"}'>Size: Shortest Chain--15”, Longest Chain--26”</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add the finishing touch with this gorgeous beach-inspired layered necklace featuring four strands of mixed chains with beaded details, natural stone and a sand dollar pendant. Dainty and delicate, our Aelina Necklace is perfect for every day. \n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--15”, Longest Chain--26”\nLobster Clasp\nImported"}'>Lobster Clasp</span></li>
+<li><span data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-sheets-value='{"1":2,"2":"Add the finishing touch with this gorgeous beach-inspired layered necklace featuring four strands of mixed chains with beaded details, natural stone and a sand dollar pendant. Dainty and delicate, our Aelina Necklace is perfect for every day. \n\nMaterials: Iron Chain, Zinc Alloy\nSize: Shortest Chain--15”, Longest Chain--26”\nLobster Clasp\nImported"}'>Imported</span></li>
+</ul>
+</div>
+<ul></ul>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>03June</s:tag>
+    <s:tag>Body_Lobster Claw</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Alloy</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>Tag_5ed7cfe755e2b</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646120521808</id>
+      <title>Gold</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>612712</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4646121832528</id>
+    <published>2020-06-04T14:04:39-04:00</published>
+    <updated>2020-06-04T14:04:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/daybreaker-er"/>
+    <title>Daybreaker Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/daybreakerearring_gold_612496_1.jpg?v=1592932305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"This ornate cutout earring is rendered in both a silver and gold finish. Paired with either a sweater or a sundress, our Daybreaker Earring will provide year-round style.\n\nMaterial: Copper\nSize: 1.75\" x 1\"\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"This ornate cutout earring is rendered in both a silver and gold finish. Paired with either a sweater or a sundress, our Daybreaker Earring will provide year-round style.\n\nMaterial: Copper\nSize: 1.75\" x 1\"\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">This ornate cutout earring is rendered in both a silver and gold finish. Paired with either a sweater or a sundress, our Daybreaker Earring will provide year-round style.<br data-mce-fragment="1"><br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"This ornate cutout earring is rendered in both a silver and gold finish. Paired with either a sweater or a sundress, our Daybreaker Earring will provide year-round style.\n\nMaterial: Copper\nSize: 1.75\" x 1\"\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Material: Copper</span></li>
+<li><span data-sheets-value='{"1":2,"2":"This ornate cutout earring is rendered in both a silver and gold finish. Paired with either a sweater or a sundress, our Daybreaker Earring will provide year-round style.\n\nMaterial: Copper\nSize: 1.75\" x 1\"\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Size: 1.75" x 1"</span></li>
+<li><span data-sheets-value='{"1":2,"2":"This ornate cutout earring is rendered in both a silver and gold finish. Paired with either a sweater or a sundress, our Daybreaker Earring will provide year-round style.\n\nMaterial: Copper\nSize: 1.75\" x 1\"\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Post Backing</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>03June</s:tag>
+    <s:tag>Body_Post Back</s:tag>
+    <s:tag>Color_Gold</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>Material_Copper</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>Tag_5ed7cfe755e2b</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646121832528</id>
+      <title>Gold</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646121832528</id>
+      <title>Silver</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>612495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://saachiwholesale.com/products/4646123438160</id>
+    <published>2020-06-04T14:04:33-04:00</published>
+    <updated>2020-06-04T14:04:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://saachiwholesale.com/products/hammered-angle-earring"/>
+    <title>Hammered Angle Earring</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>SaachiWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2157/5435/products/hammeredangleearring_gold_612585_3.jpg?v=1591302482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SaachiWholesale<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Our Hammered Angle Earring is the pair you will reach for again and again. This lightweight trendy hoop earring gets a modern refresh with its six-angled sides and hammered finish. \n\nMaterial: Alloy\n1.75\" Diameter\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1"><span data-sheets-value='{"1":2,"2":"Our Hammered Angle Earring is the pair you will reach for again and again. This lightweight trendy hoop earring gets a modern refresh with its six-angled sides and hammered finish. \n\nMaterial: Alloy\n1.75\" Diameter\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Our Hammered Angle Earring is the pair you will reach for again and again. This lightweight trendy hoop earring gets a modern refresh with its six-angled sides and hammered finish. <br data-mce-fragment="1"><br data-mce-fragment="1"></span></span>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"Our Hammered Angle Earring is the pair you will reach for again and again. This lightweight trendy hoop earring gets a modern refresh with its six-angled sides and hammered finish. \n\nMaterial: Alloy\n1.75\" Diameter\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Material: Alloy</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our Hammered Angle Earring is the pair you will reach for again and again. This lightweight trendy hoop earring gets a modern refresh with its six-angled sides and hammered finish. \n\nMaterial: Alloy\n1.75\" Diameter\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">1.75" Diameter</span></li>
+<li><span data-sheets-value='{"1":2,"2":"Our Hammered Angle Earring is the pair you will reach for again and again. This lightweight trendy hoop earring gets a modern refresh with its six-angled sides and hammered finish. \n\nMaterial: Alloy\n1.75\" Diameter\nPost Backing"}' data-sheets-userformat='{"2":769,"3":{"1":0},"11":4,"12":0}' data-mce-fragment="1">Post Backing</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>03June</s:tag>
+    <s:tag>fall2020</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>min2</s:tag>
+    <s:tag>notsale</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>Spring2021Jewelry</s:tag>
+    <s:tag>Tag_5ed7cfe755e2b</s:tag>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646123438160</id>
+      <title>Gold</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>612585</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://saachiwholesale.com/products/4646123438160</id>
+      <title>Silver</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>612586</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
